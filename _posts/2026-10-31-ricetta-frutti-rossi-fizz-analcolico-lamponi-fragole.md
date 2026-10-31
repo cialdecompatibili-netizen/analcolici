@@ -4,7 +4,7 @@ title: "Ricetta: Frutti Rossi Fizz analcolico con lamponi, fragole e melograno"
 date: 2026-10-31
 permalink: /blog/ricette-mocktail/ricetta-frutti-rossi-fizz-analcolico-lamponi-fragole/
 excerpt: "Come preparare un mocktail rosso, dolce e frizzante ai frutti rossi: lamponi, fragole e mirtilli schiacciati, succo di melograno, lime e una spuma di bollicine."
-seo_title: "Mocktail Frutti Rossi Ricetta Analcolica | Spirito Libero"
+seo_title: "Mocktail Frutti Rossi Ricetta Analcolica"
 seo_description: "Ricetta del mocktail ai frutti rossi: dolce, rosso rubino e frizzante, con lamponi, fragole, melograno e lime. Pronto in 5 minuti, senza alcol."
 categories:
   - "Ricette Mocktail"

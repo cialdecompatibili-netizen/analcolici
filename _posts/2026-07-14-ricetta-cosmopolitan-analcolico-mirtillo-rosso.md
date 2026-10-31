@@ -4,7 +4,7 @@ title: "Ricetta: Cosmopolitan Analcolico al mirtillo rosso e lime"
 date: 2026-07-14
 permalink: /blog/ricette-mocktail/ricetta-cosmopolitan-analcolico-mirtillo-rosso/
 excerpt: "Come preparare un cosmopolitan analcolico elegante: succo di mirtillo rosso, lime e la giusta tecnica di shakerata per un colore e un equilibrio da vero cocktail bar."
-seo_title: "Cosmopolitan Analcolico Ricetta | Spirito Libero"
+seo_title: "Cosmopolitan Analcolico Ricetta"
 seo_description: "Come preparare un cosmopolitan analcolico elegante: succo di mirtillo rosso, lime e la giusta tecnica di shakerata per un colore e un equilibrio da vero cocktail bar."
 categories:
   - "Ricette Mocktail"

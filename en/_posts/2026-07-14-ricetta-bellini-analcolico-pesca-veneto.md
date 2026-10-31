@@ -4,7 +4,7 @@ title: "Recipe: Non-alcoholic peach Bellini, the Venetian classic without alcoho
 date: 2026-07-14
 permalink: /en/blog/mocktail-recipes/ricetta-bellini-analcolico-pesca-veneto/
 excerpt: "How to prepare a non-alcoholic Bellini faithful to the Harry's Bar original: fresh white peach puree and non-alcoholic sparkling gooseberries, with the correct technique so as not to lose the bubbles."
-seo_title: "Bellini Non-Alcoholic Recipe | Spirito Libero"
+seo_title: "Bellini Non-Alcoholic Recipe"
 seo_description: "How to prepare a non-alcoholic Bellini faithful to the Harry's Bar original: fresh white peach puree and non-alcoholic sparkling gooseberries, with the correct technique so as not to lose the bubbles."
 categories:
   - "Mocktail Recipes"

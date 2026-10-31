@@ -4,7 +4,7 @@ title: "Recipe: Non-Alcoholic Cosmopolitan with cranberry and lime"
 date: 2026-07-14
 permalink: /en/blog/mocktail-recipes/ricetta-cosmopolitan-analcolico-mirtillo-rosso/
 excerpt: "How to prepare an elegant non-alcoholic cosmopolitan: cranberry juice, lime and the right shake technique for the color and balance of a true cocktail bar."
-seo_title: "Cosmopolitan Non-Alcoholic Recipe | Spirito Libero"
+seo_title: "Cosmopolitan Non-Alcoholic Recipe"
 seo_description: "How to prepare an elegant non-alcoholic cosmopolitan: cranberry juice, lime and the right shake technique for the color and balance of a true cocktail bar."
 categories:
   - "Mocktail Recipes"

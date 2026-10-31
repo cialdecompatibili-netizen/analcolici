@@ -4,7 +4,7 @@ title: "Pi&ntilde;a Colada 0%"
 pid: pina-colada-0
 permalink: /en/shop/pina-colada-0/
 description: "Non-alcoholic Piña Colada 1L, pineapple and coconut, ready to pour over ice."
-seo_title: "Non-Alcoholic Piña Colada 0% | Spirito Libero"
+seo_title: "Non-Alcoholic Piña Colada 0%"
 seo_description: "Non-alcoholic Piña Colada 1L, pineapple and coconut, ready to pour over ice."
 seo_image: /assets/images/prodotti/pina-colada-0.jpg
 lang: en

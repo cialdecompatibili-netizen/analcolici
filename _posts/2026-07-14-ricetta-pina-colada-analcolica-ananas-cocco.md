@@ -4,7 +4,7 @@ title: "Ricetta: Pina Colada Analcolica cremosa all'ananas e cocco"
 date: 2026-07-14
 permalink: /blog/ricette-mocktail/ricetta-pina-colada-analcolica-ananas-cocco/
 excerpt: "Come fare la pina colada analcolica cremosa e tropicale: dosi esatte di ananas, latte di cocco e lime, tecnica al frullatore e trucchi per la texture perfetta."
-seo_title: "Pina Colada Analcolica Ricetta | Spirito Libero"
+seo_title: "Pina Colada Analcolica Ricetta"
 seo_description: "Come fare la pina colada analcolica cremosa e tropicale: dosi esatte di ananas, latte di cocco e lime, tecnica al frullatore e trucchi per la texture perfetta."
 categories:
   - "Ricette Mocktail"

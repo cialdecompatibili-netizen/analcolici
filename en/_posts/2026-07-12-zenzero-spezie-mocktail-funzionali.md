@@ -4,7 +4,7 @@ title: "Ginger and spices: the ingredients that make a functional mocktail"
 date: 2026-07-12
 permalink: /en/blog/wellness-detox/zenzero-spezie-mocktail-funzionali/
 excerpt: "Like ginger, turmeric and medicinal spices they transform a simple soft drink into a drink with digestive and anti-inflammatory properties."
-seo_title: "Ginger and Spices in Mocktails: Digestive Properties | Spirito Libero"
+seo_title: "Ginger and Spices in Mocktails: Digestive Properties"
 seo_description: "Like ginger, turmeric and medicinal spices they transform a simple soft drink into a drink with digestive and anti-inflammatory properties."
 categories:
   - "Wellness & Detox"

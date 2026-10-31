@@ -4,7 +4,7 @@ title: "Da Dry January a Damp January: come sta cambiando la sfida di gennaio"
 date: 2026-07-12
 permalink: /blog/trend-cultura/dry-january-damp-january-differenza/
 excerpt: "Il Dry January si trasforma in Damp January: meno rinuncia totale, piu' riduzione consapevole del consumo di alcol."
-seo_title: "Dry January vs Damp January: Cosa Cambia | Spirito Libero"
+seo_title: "Dry January vs Damp January: Cosa Cambia"
 seo_description: "Il Dry January si trasforma in Damp January: meno rinuncia totale, piu' riduzione consapevole del consumo di alcol."
 categories:
   - "Trend & Cultura"

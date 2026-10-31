@@ -4,7 +4,7 @@ title: "Ricetta: Negroni Analcolico, l'aperitivo amaro-agrumato senza alcol"
 date: 2026-07-14
 permalink: /blog/ricette-mocktail/ricetta-negroni-analcolico-amaro-agrumato/
 excerpt: "Come ricreare il Negroni analcolico mantenendo la sua struttura amara: bitter analcolico, vermouth analcolico e la tecnica del mescolato, non dello shakerato."
-seo_title: "Negroni Analcolico Ricetta | Spirito Libero"
+seo_title: "Negroni Analcolico Ricetta"
 seo_description: "Come ricreare il Negroni analcolico mantenendo la sua struttura amara: bitter analcolico, vermouth analcolico e la tecnica del mescolato, non dello shakerato."
 categories:
   - "Ricette Mocktail"

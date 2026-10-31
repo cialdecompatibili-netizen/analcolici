@@ -4,7 +4,7 @@ title: "Non-alcoholic aperitif or mocktail? The differences that not everyone kn
 date: 2026-07-12
 permalink: /en/blog/aperitif-guides/differenza-aperitivo-analcolico-mocktail/
 excerpt: "They are not the same thing: discover the differences between ready-made non-alcoholic aperitifs and freshly prepared mocktails."
-seo_title: "Non-alcoholic Aperitif vs Mocktail: Differences | Spirito Libero"
+seo_title: "Non-alcoholic Aperitif vs Mocktail: Differences"
 seo_description: "They are not the same thing: discover the differences between ready-made non-alcoholic aperitifs and freshly prepared mocktails."
 categories:
   - "Aperitif Guides"

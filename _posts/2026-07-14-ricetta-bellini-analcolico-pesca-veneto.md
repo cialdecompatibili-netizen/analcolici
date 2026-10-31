@@ -4,7 +4,7 @@ title: "Ricetta: Bellini Analcolico alla pesca, il classico veneziano senza alco
 date: 2026-07-14
 permalink: /blog/ricette-mocktail/ricetta-bellini-analcolico-pesca-veneto/
 excerpt: "Come preparare un Bellini analcolico fedele all'originale di Harry's Bar: purea di pesca bianca fresca e uva spina frizzante analcolica, con la tecnica corretta per non perdere le bollicine."
-seo_title: "Bellini Analcolico Ricetta | Spirito Libero"
+seo_title: "Bellini Analcolico Ricetta"
 seo_description: "Come preparare un Bellini analcolico fedele all'originale di Harry's Bar: purea di pesca bianca fresca e uva spina frizzante analcolica, con la tecnica corretta per non perdere le bollicine."
 categories:
   - "Ricette Mocktail"

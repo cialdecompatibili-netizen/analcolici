@@ -4,7 +4,7 @@ title: "Tropical 0%"
 cid: tropicali-0
 permalink: /en/shop/category/tropical-0/
 description: "Non-alcoholic drinks inspired by the great tropical classics: pineapple, lime, spices. 1L bottles."
-seo_title: "Non-Alcoholic Tropical Cocktails 0% | Spirito Libero"
+seo_title: "Non-Alcoholic Tropical Cocktails 0%"
 seo_description: "Non-alcoholic drinks inspired by the great tropical classics: pineapple, lime, spices. 1L bottles."
 seo_image: /assets/images/categorie/tropicali-0.jpg
 lang: en

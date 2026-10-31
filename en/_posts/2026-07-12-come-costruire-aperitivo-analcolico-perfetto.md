@@ -4,7 +4,7 @@ title: "How to build the perfect non-alcoholic aperitif: the complete guide"
 date: 2026-07-12
 permalink: /en/blog/aperitif-guides/come-costruire-aperitivo-analcolico-perfetto/
 excerpt: "Glass, ice, garnish and combinations: everything you need for a non-alcoholic aperitif on par with the traditional one."
-seo_title: "Guide to the Perfect Non-Alcoholic Aperitif | Spirito Libero"
+seo_title: "Guide to the Perfect Non-Alcoholic Aperitif"
 seo_description: "Glass, ice, garnish and combinations: everything you need for a non-alcoholic aperitif on par with the traditional one."
 categories:
   - "Aperitif Guides"

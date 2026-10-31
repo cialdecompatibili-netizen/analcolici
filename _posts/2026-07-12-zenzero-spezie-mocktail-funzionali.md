@@ -4,7 +4,7 @@ title: "Zenzero e spezie: gli ingredienti che rendono un mocktail funzionale"
 date: 2026-07-12
 permalink: /blog/wellness-detox/zenzero-spezie-mocktail-funzionali/
 excerpt: "Come zenzero, curcuma e spezie officinali trasformano un semplice analcolico in un drink dalle proprieta' digestive e antinfiammatorie."
-seo_title: "Zenzero e Spezie nei Mocktail: Proprieta' Digestive | Spirito Libero"
+seo_title: "Zenzero e Spezie nei Mocktail: Proprieta' Digestive"
 seo_description: "Come zenzero, curcuma e spezie officinali trasformano un semplice analcolico in un drink dalle proprieta' digestive e antinfiammatorie."
 categories:
   - "Wellness & Detox"

@@ -4,7 +4,7 @@ title: "Daiquiri 0%"
 pid: daiquiri-0
 permalink: /en/shop/daiquiri-0/
 description: "Non-alcoholic Daiquiri 1L, lime and cane sugar, ready to pour over ice."
-seo_title: "Non-Alcoholic Daiquiri 0% | Spirito Libero"
+seo_title: "Non-Alcoholic Daiquiri 0%"
 seo_description: "Non-alcoholic Daiquiri 1L, lime and cane sugar, ready to pour over ice."
 seo_image: /assets/images/prodotti/daiquiri-0.jpg
 lang: en
