@@ -1,14 +1,18 @@
 [
   {
-    "nome": "blog",
-    "descrizione": "Novita', approfondimenti e dietro le quinte"
+    "nome": "Guide all'Aperitivo",
+    "descrizione": "Tutto quello che c'è da sapere sull'aperitivo 0%: come servirlo, abbinamenti, curiosità e ispirazione per ogni occasione."
   },
   {
-    "nome": "Guide",
-    "descrizione": "Istruzioni passo passo, spiegate semplici."
+    "nome": "Wellness & Detox",
+    "descrizione": "Ingredienti funzionali, proprieta' digestive e drink pensati per il benessere: l'aperitivo analcolico incontra il mondo wellness."
   },
   {
-    "nome": "Novità",
-    "descrizione": "Aggiornamenti e notizie dal sito."
+    "nome": "Trend & Cultura",
+    "descrizione": "I numeri, le abitudini e i movimenti culturali dietro il boom degli analcolici: uno sguardo su cosa succede davvero nei bicchieri degli italiani."
+  },
+  {
+    "nome": "Ricette Mocktail",
+    "descrizione": "Dal bicchiere alla guarnizione: ricette passo passo per preparare mocktail da vero bartender, direttamente a casa tua."
   }
 ]

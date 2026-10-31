@@ -3,42 +3,36 @@
     "id": "hero",
     "nome": "Hero",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Il tuo settore, in due parole</p><h1 class=\"gc-h1\">Dì in una riga cosa fai, <em>senza giri di parole.</em></h1><p class=\"gc-lead\">Racconta in due righe chi sei, che problema risolvi e per chi. Scrivila come la diresti a voce a un cliente: semplice e diretta.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/contatti/\">Scrivici</a><a class=\"gc-btn gc-btn-o\" href=\"__BASEURL__/servizi/\">Vedi cosa facciamo</a></div></div><div class=\"ent-cycle\"><div><b>Ci racconti cosa ti serve</b><span>Senza impegno, anche solo per capire da dove partire</span></div><div><b>Ti proponiamo una soluzione</b><span>Chiara, con tempi e costi detti prima</span></div><div><b>Ci mettiamo al lavoro</b><span>Ti aggiorniamo a ogni passaggio</span></div><div><b>Consegna e assistenza</b><span>Restiamo a disposizione anche dopo</span></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Aperitivi &#183; Long Drink &#183; Tropicali &#183; Distillati &#8212; Tutti 0%</p><h1 class=\"gc-h1\">Il rito dell&#39;aperitivo, <em>senza compromessi.</em></h1><p class=\"gc-lead\">Bevande analcoliche 0% ispirate ai grandi classici: Negroni, Spritz, Mojito, Pi&#241;a Colada. Formato 1L, pronte da versare su ghiaccio.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/negozio/\">Vai allo Shop</a><a class=\"gc-btn gc-btn-o\" href=\"__BASEURL__/contatti/\">Contattaci</a></div></div><div class=\"ent-cycle\"><div><b>0% alcol, 100% gusto</b><span>Stessa complessit&#224; dei grandi classici, senza una goccia di alcol</span></div><div><b>Pronto da versare</b><span>Niente shaker, niente dosi: basta il ghiaccio</span></div><div><b>Formato 1L, &#8364;9,90</b><span>Un solo formato e un solo prezzo per ogni bottiglia</span></div></div></div></section></div>"
   },
   {
-    "id": "contesto",
-    "nome": "Il contesto",
+    "id": "numeri",
+    "nome": "Numeri",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"contesto\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Qualche numero</p><h2 class=\"gc-h2\">Perché è un tema che conta</h2><p class=\"gc-lead\">Una frase che spiega il contesto, con un dato vero e la sua fonte. Se non ne hai, togli questa fascia.</p><div class=\"ent-stats\"><div><b>00</b><span>Dato da inserire</span></div><div><b>00</b><span>Dato da inserire</span></div><div><b>00</b><span>Dato da inserire</span></div></div><p class=\"ent-src\">Fonte: scrivi da dove arriva il dato.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"numeri\"><div class=\"gc-wrap\"><div class=\"ent-stats ent-4\"><div><b>0%</b><span>Alcol</span></div><div><b>40</b><span>Ricette</span></div><div><b>1L</b><span>Formato unico</span></div><div><b>&#8364;9,90</b><span>Prezzo a bottiglia</span></div></div></div></section></div>"
   },
   {
-    "id": "servizi",
-    "nome": "Servizi",
+    "id": "collezioni",
+    "nome": "Collezioni",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"servizi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Cosa facciamo</p><h2 class=\"gc-h2\">Come possiamo darti una mano</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><span class=\"n\">01</span><b>Il servizio principale</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">02</span><b>Un secondo servizio</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">03</span><b>Un terzo servizio</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">04</span><b>Un quarto servizio</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div></div><p style=\"margin-top:1.6rem\"><a class=\"gc-link\" href=\"__BASEURL__/servizi/\">Guarda tutti i servizi</a></p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"collezioni\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Le nostre collezioni</p><h2 class=\"gc-h2\">Scegli il tuo momento</h2><div class=\"gc-plat ent-4\"><a class=\"gc-card\" href=\"__BASEURL__/negozio/categoria/aperitivi-0/\"><div class=\"gc-art\"><img src=\"__BASEURL__/assets/images/categorie/aperitivi-0.jpg\" alt=\"Aperitivi 0%\" loading=\"lazy\" style=\"width:100%;height:100%;object-fit:cover\"></div><div class=\"gc-card-b\"><span class=\"gc-card-t\">Aperitivi 0%</span><span class=\"gc-card-d\">Negroni, Spritz, Gin Tonic: il rito dell&#39;aperitivo in versione analcolica.</span><span class=\"gc-card-m\">Scopri &rarr;</span></div></a><a class=\"gc-card\" href=\"__BASEURL__/negozio/categoria/long-drink-0/\"><div class=\"gc-art\"><img src=\"__BASEURL__/assets/images/categorie/long-drink-0.jpg\" alt=\"Long Drink 0%\" loading=\"lazy\" style=\"width:100%;height:100%;object-fit:cover\"></div><div class=\"gc-card-b\"><span class=\"gc-card-t\">Long Drink 0%</span><span class=\"gc-card-d\">Mojito, Moscow Mule, Cuba Libre: freschi, dissetanti, da bere lungo.</span><span class=\"gc-card-m\">Scopri &rarr;</span></div></a><a class=\"gc-card\" href=\"__BASEURL__/negozio/categoria/tropicali-0/\"><div class=\"gc-art\"><img src=\"__BASEURL__/assets/images/categorie/tropicali-0.jpg\" alt=\"Tropicali 0%\" loading=\"lazy\" style=\"width:100%;height:100%;object-fit:cover\"></div><div class=\"gc-card-b\"><span class=\"gc-card-t\">Tropicali 0%</span><span class=\"gc-card-d\">Daiquiri, Pi&#241;a Colada, Margarita, Bloody Mary: frutta e vacanza in ogni sorso.</span><span class=\"gc-card-m\">Scopri &rarr;</span></div></a><a class=\"gc-card\" href=\"__BASEURL__/negozio/categoria/distillati-0/\"><div class=\"gc-art\"><img src=\"__BASEURL__/assets/images/categorie/distillati-0.jpg\" alt=\"Distillati 0%\" loading=\"lazy\" style=\"width:100%;height:100%;object-fit:cover\"></div><div class=\"gc-card-b\"><span class=\"gc-card-t\">Distillati 0%</span><span class=\"gc-card-d\">I grandi distillati della mixology internazionale, reinventati in versione 0%: gin, vermouth, rum, tequila, whisky. Stessa complessit&#224; aromatica, senza una goccia di alcol.</span><span class=\"gc-card-m\">Scopri &rarr;</span></div></a></div></div></section></div>"
   },
   {
-    "id": "perchi",
-    "nome": "Per chi",
+    "id": "perche",
+    "nome": "Perché Spirito Libero",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"perchi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">A chi ci rivolgiamo</p><h2 class=\"gc-h2\">Chi si trova bene con noi</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><b>Privati</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div><div class=\"gc-pl ent-pl\"><b>Professionisti</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div><div class=\"gc-pl ent-pl\"><b>Piccole aziende</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div><div class=\"gc-pl ent-pl\"><b>Enti e associazioni</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"perche\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Perch&#233; Spirito Libero</p><h2 class=\"gc-h2\">Il gusto dell&#39;aperitivo, senza alcol</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><b>0% alcol, 100% gusto</b><p>Ricette pensate per non far rimpiangere l&#39;originale: stessa complessit&#224;, stesso rituale, senza una goccia di alcol.</p></div><div class=\"gc-pl\"><b>Pronto da versare</b><p>Niente shaker, niente dosi da ricordare. Perfetto liscio su ghiaccio, oppure come base per la tua ricetta personale: la libert&#224; &#232; nel nome.</p></div><div class=\"gc-pl\"><b>Formato 1L</b><p>Un solo formato, pensato per durare: perfetto per l&#39;aperitivo di tutti i giorni o per una serata tra amici.</p></div></div></div></section></div>"
   },
   {
-    "id": "metodo",
-    "nome": "Come lavoriamo",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"metodo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Come lavoriamo</p><h2 class=\"gc-h2\">Dalla prima chiamata alla consegna</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl\"><span class=\"n\">01</span><b>Ci parliamo</b><p>Ascoltiamo cosa ti serve, senza impegno.</p></div><div class=\"gc-pl\"><span class=\"n\">02</span><b>Ti facciamo una proposta</b><p>Tempi e costi chiari, prima di iniziare.</p></div><div class=\"gc-pl\"><span class=\"n\">03</span><b>Ci mettiamo al lavoro</b><p>Ti teniamo aggiornato a ogni passaggio.</p></div><div class=\"gc-pl\"><span class=\"n\">04</span><b>Consegniamo e restiamo a disposizione</b><p>Se dopo serve qualcosa, ci trovi.</p></div></div></div></section></div>"
-  },
-  {
-    "id": "avvisi",
+    "id": "blog",
     "nome": "Blog",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"avvisi\"><div class=\"gc-wrap gc-2c\"><div><p class=\"gc-eyebrow\">Dal blog</p><h2 class=\"gc-h2\">Cose che ti possono servire</h2><p class=\"gc-lead\">Guide brevi e novità, scritte in modo semplice.</p><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/blog/\">Vai al blog</a></div><div class=\"gc-pl\"><span class=\"n\">ULTIMO ARTICOLO</span><b>Il titolo del tuo ultimo articolo</b><p>Due righe per far venire voglia di leggerlo.</p></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"blog\"><div class=\"gc-wrap gc-2c\"><div><p class=\"gc-eyebrow\">Dal blog</p><h2 class=\"gc-h2\">Guide e ricette mocktail</h2><p class=\"gc-lead\">Come servire l&#39;aperitivo 0%, abbinamenti, ricette e tendenze: tutto quello che c&#39;&#232; da sapere.</p><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/blog/\">Vai al blog</a></div><div class=\"gc-pl\"><span class=\"n\">ULTIMO ARTICOLO</span><b>Ricetta: Pina Colada Analcolica cremosa all&#39;ananas e cocco</b><p>Come fare la pina colada analcolica cremosa e tropicale: dosi esatte di ananas, latte di cocco e lime, tecnica al frullatore e trucchi per la texture perfetta.</p></div></div></section></div>"
   },
   {
-    "id": "contatti",
-    "nome": "Contatti",
+    "id": "cta",
+    "nome": "Invito",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"contatti\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contatti</p><h2 class=\"gc-h2\">Scriviamoci</h2><p class=\"gc-lead\">Raccontaci di cosa hai bisogno, ti rispondiamo appena possibile.</p><a class=\"gc-btn\" href=\"__BASEURL__/contatti/\">Scrivici</a></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"cta\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Pronto per il tuo aperitivo 0%?</h2><p class=\"gc-lead\">40 ricette, un solo formato, un solo prezzo. Scegli la tua e portala a tavola stasera.</p><a class=\"gc-btn\" href=\"__BASEURL__/negozio/\">Scopri lo Shop &rarr;</a></div></section></div>"
   }
 ]

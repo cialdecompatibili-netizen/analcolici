@@ -3,12 +3,18 @@
     "id": "chi",
     "nome": "Chi siamo",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Chi siamo</p><h2 class=\"gc-h2\">Titolo della presentazione</h2><p class=\"gc-lead\">Chi siete, cosa fate e per chi.</p><p>Un paragrafo in più su come lavorate.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Chi siamo</p><h2 class=\"gc-h2\">Non un ripiego. Una scelta.</h2><p class=\"gc-lead\">Spirito Libero nasce da una domanda semplice: perch&#233; rinunciare al rito dell&#39;aperitivo solo perch&#233; si sceglie di bere meno alcol? Oggi in Italia il 63% delle persone sceglie regolarmente aperitivi alcol-free. Noi li abbiamo pensati per chi non vuole rinunciare al gusto.</p></div></section></div>"
   },
   {
     "id": "principi",
     "nome": "Principi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Come ci comportiamo</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Primo principio</b><p>Descrizione breve.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Secondo principio</b><p>Descrizione breve.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Terzo principio</b><p>Descrizione breve.</p></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><div class=\"gc-plat\"><div class=\"gc-pl\"><b>Gusto prima di tutto</b><p>Niente sciroppi industriali o succo di frutta travestito da cocktail. Ricette pensate per restituire la complessit&#224; aromatica dei grandi classici: amaro, agrumato, botanico.</p></div><div class=\"gc-pl\"><b>Zebra striping, non astinenza</b><p>Non ti chiediamo di smettere di bere alcol. Ti offriamo l&#39;alternativa per le occasioni in cui vuoi restare lucido, guidare, o semplicemente stare meglio il giorno dopo &#8212; senza uscire dal rito sociale dell&#39;aperitivo.</p></div><div class=\"gc-pl\"><b>Pronto, senza compromessi</b><p>Formato 1L, pronto da versare su ghiaccio. Zero attrezzatura da bartender, stessa qualit&#224; di un drink fatto al bancone.</p></div></div></div></section></div>"
+  },
+  {
+    "id": "mercato",
+    "nome": "Il mercato",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"mercato\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Un mercato che cresce, un gusto che non scende a compromessi</h2><p class=\"gc-lead\">Il mercato globale delle bevande no-alcol premium vale oggi oltre 9,6 miliardi di euro. Non &#232; una moda passeggera: &#232; un cambio culturale nel modo in cui si vive l&#39;aperitivo. Noi vogliamo essere il marchio italiano di riferimento per chi lo vive con gusto, non per rinuncia.</p><a class=\"gc-btn\" href=\"__BASEURL__/negozio/\">Scopri le ricette</a></div></section></div>"
   }
 ]

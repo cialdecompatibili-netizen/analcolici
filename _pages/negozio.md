@@ -3,9 +3,9 @@ ref: shop-negozio
 layout: single
 classes: wide
 author_profile: false
-title: Negozio
+title: Shop
 permalink: /negozio/
-description: Scegli i prodotti, indica la quantità e aggiungili al carrello.
+description: "Aperitivi, long drink, cocktail tropicali e distillati analcolici 0%, formato 1L a 9,90 euro."
 ecommerce: true
 noindex: false
 ---
