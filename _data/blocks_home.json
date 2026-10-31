@@ -9,7 +9,7 @@
     "id": "numeri",
     "nome": "Numeri",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"numeri\"><div class=\"gc-wrap\"><div class=\"ent-stats ent-4\"><div><b>0%</b><span>Alcol</span></div><div><b>47</b><span>Ricette</span></div><div><b>1L</b><span>Formato unico</span></div><div><b>&#8364;9,90</b><span>Prezzo a bottiglia</span></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"numeri\"><div class=\"gc-wrap\"><div class=\"ent-stats ent-4\"><div><b>0%</b><span>Alcol</span></div><div><b>48</b><span>Ricette</span></div><div><b>1L</b><span>Formato unico</span></div><div><b>&#8364;9,90</b><span>Prezzo a bottiglia</span></div></div></div></section></div>"
   },
   {
     "id": "collezioni",
@@ -45,6 +45,6 @@
     "id": "cta",
     "nome": "Invito",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"cta\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Pronto per il tuo aperitivo 0%?</h2><p class=\"gc-lead\">47 ricette, un solo formato, un solo prezzo. Scegli la tua e portala a tavola stasera.</p><a class=\"gc-btn\" href=\"__BASEURL__/negozio/\">Scopri lo Shop &rarr;</a></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"cta\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Pronto per il tuo aperitivo 0%?</h2><p class=\"gc-lead\">48 ricette, un solo formato, un solo prezzo. Scegli la tua e portala a tavola stasera.</p><a class=\"gc-btn\" href=\"__BASEURL__/negozio/\">Scopri lo Shop &rarr;</a></div></section></div>"
   }
 ]

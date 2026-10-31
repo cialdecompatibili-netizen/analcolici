@@ -15,7 +15,7 @@
     "id": "manifesto",
     "nome": "Manifesto",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"manifesto\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Not a substitute. A choice.</h2><p class=\"gc-lead\">Forty-seven recipes, one size, one price: 9.90 euro for 1 litre. Nothing to calculate, nothing to miss: the only hard part is deciding which one to open tonight.</p><a class=\"gc-btn\" href=\"__BASEURL__/en/shop/\">Taste the difference</a></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"manifesto\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Not a substitute. A choice.</h2><p class=\"gc-lead\">Forty-eight recipes, one size, one price: 9.90 euro for 1 litre. Nothing to calculate, nothing to miss: the only hard part is deciding which one to open tonight.</p><a class=\"gc-btn\" href=\"__BASEURL__/en/shop/\">Taste the difference</a></div></section></div>"
   },
   {
     "id": "cta",
