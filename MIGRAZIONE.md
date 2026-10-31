@@ -38,3 +38,10 @@ Cartella: `C:\Users\mirco\Desktop\claudetemp\migra_analcolici\`
 - Generare tutto con script, mai a mano: accenti e apostrofi nei blocchi come entita' HTML, JSON con rilettura.
 - Non portare i `<style>` del vecchio sito: si usano le classi `gc-*` / `ent-*` e `_data/tema.json`.
 - Dati e testi solo quelli dell'origine, niente invenzioni.
+
+## Fase 4 (31/10/2026): inglese + marketing
+- [x] Versione inglese completa: `en/` (home, shop, 4 categorie, 40 prodotti, blog 4 categorie + 13 articoli, chi siamo, contatti, carrello, ordine, grazie, filosofia). Lingue: `languages: [it, en]`. Dati EN in `_data/i18n/en/`, testi prodotti/categorie in `catalogo.json` (`tr.en`).
+- Script: `claudetemp\migra_analcolici\fase4a_en.py` (struttura EN), `tr_prodotti_en.py` (traduzioni prodotti scritte a mano), `fase4b_marketing.py` (blocchi home/azienda/filosofia IT+EN, menu, config). Articoli EN tradotti con `automation/traduci_lingua.py en` (motore automatico: rileggere i testi), poi `permalink_articoli.py --apply`, cancellati `redirect/*.html`, `allinea_hash.py en`.
+- [x] Marketing: blocco "Filosofia" in home (eccellenza italiana, cura, gusto) + pagina `/filosofia/` (EN `/en/philosophy/`), blocco "Come si gusta" (3 gesti), voce di menu Filosofia.
+- ATTENZIONE: i testi "filosofia" sono messaggi di marca, non fatti verificati (nessun "fatto a mano in Italia" letterale: non e' nell'origine). Se vuoi dichiararlo, va confermato.
+- [ ] Da rileggere a mano: traduzione automatica degli articoli EN (nomi propri, termini bar).
