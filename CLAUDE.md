@@ -98,3 +98,5 @@ Lezioni dalla migrazione "pelletteria" -> "pelletteria2" (24/10/2026)
 - Colori del liquido per i prompt in `_data/colori_foto.json`. Foto fatte: 6 tequila 0% (el-diablo, oaxaca-old-fashioned, picante-margarita, ranch-water, tequila-sunrise, tommys-margarita), etichetta floreale con nome.
 - Le 6 schede tequila sono nella categoria Distillati: https://cialdecompatibili-netizen.github.io/analcolici/negozio/categoria/distillati-0/
 - Aggiungere nuovi prodotti: basta metterli nel catalogo con `"immagine": ""` e lanciare il comando sopra.
+
+- SISTEMA RIUSABILE (foto automatiche, nuovo prodotto, nuovo articolo IT+EN, regola seo_title senza nome sito): vedi la sezione 'SISTEMA RIUSABILE PER ALTRI SITI' in MIGRAZIONE.md (31/10/2026).

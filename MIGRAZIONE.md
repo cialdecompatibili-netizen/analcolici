@@ -45,3 +45,51 @@ Cartella: `C:\Users\mirco\Desktop\claudetemp\migra_analcolici\`
 - [x] Marketing: blocco "Filosofia" in home (eccellenza italiana, cura, gusto) + pagina `/filosofia/` (EN `/en/philosophy/`), blocco "Come si gusta" (3 gesti), voce di menu Filosofia.
 - ATTENZIONE: i testi "filosofia" sono messaggi di marca, non fatti verificati (nessun "fatto a mano in Italia" letterale: non e' nell'origine). Se vuoi dichiararlo, va confermato.
 - [ ] Da rileggere a mano: traduzione automatica degli articoli EN (nomi propri, termini bar).
+
+
+## SISTEMA RIUSABILE PER ALTRI SITI (appunti 31/10/2026) - "il sistema perfetto"
+Tutto quello che e' stato messo a punto su analcolici e vale per ogni nuovo sito clonato da mistraltemplate1. Mirco: "lo riutilizziamo su altri siti". Regola d'oro: Claude fa tutto da solo con Desktop Commander, senza chiedere cosa cliccare.
+
+### 1) Foto automatiche (Gemini, senza Chrome ne server)
+- Strumento universale: `C:\Users\mirco\Desktop\gemini_auto\img.py` (guida completa `gemini_auto\IMMAGINI_API.md`). Parla direttamente con Gemini col login Google salvato, 10-20 s a immagine, circa 3 crediti ciascuna (600 per finestra di 5 ore). Crediti: `python img.py --crediti`.
+- Il PROFILO lo sceglie Claude da solo: `prodotto` (1:1, sfondo bianco #FFFFFF, soggetto all'80%, webp 1000/500/200), `categoria` (1:1), `blog` (16:9), `banner` (21:9), `generico`. I profili sono in `gemini_auto\profili\*.md`.
+- Prodotti di un sito: metti nel `_data/catalogo.json` il prodotto con `"immagine": ""`, poi UN comando:
+  `python C:\Users\mirco\Desktop\gemini_auto\core\foto_sito.py --repo C:\Users\mirco\Desktop\repository\<repo> --api`
+  Fa foto, le copia in `assets/images/prodotti/<id>.webp`, aggiorna il catalogo, commit e push. Opzioni: `--ids a,b` (rifa solo quelli), `--extra "testo"`, `--dry`, `--no-push`, `--rielabora` (rifa sfondo/ritaglio senza Gemini). Doppio clic: `gemini_api_test\foto_prodotti.bat`.
+- Colore del liquido per i prompt: `_data/colori_foto.json` (un id per riga). Va compilato per ogni nuovo prodotto.
+- Foto blog: `python ...\img.py "<soggetto>" --profilo blog --nome <slug-articolo> --out <repo>\assets\images\blog` (esce webp; i vecchi articoli hanno jpg, funziona uguale).
+- TRUCCO ANTI-INVENZIONI: Gemini inventa marche e scritte storpiate (visto: "Casa Agave", "Solstice", "NON-ALCOHOLIC" sbagliato). Rifare con `--extra "The label must contain ONLY the product name. No brand name, no other words, no small print, no logos."`. Guardare SEMPRE la foto prima di dire "fatto".
+- Sfondo: deve essere bianco puro #FFFFFF (solo ombra leggera ammessa); bottiglia all'80% del quadrato. Se esce grigio/piccola: `--rielabora`.
+- Secondo account Gemini (piu' crediti): `gemini_auto\loginsecondoaccount.bat` + `SECONDO_ACCOUNT.md`. Da finire: leggere i cookie del 2o profilo e passare in automatico sotto 10 crediti.
+
+### 2) Nuovo prodotto in un negozio (ricetta usata per Tequila Tonic 0%)
+1. Aggiungi la voce in `_data/catalogo.json` (nome, categoria, prezzo, descrizione IT + `tr.en`, SEO, `"immagine": ""`).
+2. Crea le due pagine: `_negozio/<id>.md` (IT) e `en/negozio/<id>.md` (permalink `/en/shop/<id>/`), con `ref: shop-prod-<id>` in entrambe.
+3. Compila `colori_foto.json`, lancia `foto_sito.py --api`, guarda la foto, ritocca con `--ids ... --extra ...` se serve.
+4. Aggiorna i numeri in home e filosofia ("46 ricette" ecc.): sono testo fisso nei blocchi, NON si aggiornano da soli (a 48 prodotti erano ancora vecchi).
+5. Per varianti "best seller": cercare sul web le classifiche reali, evitare i doppioni gia' nel catalogo, descrizione, consiglio di servizio e SEO unici per ogni variante.
+
+### 3) Nuovo articolo di blog IT + EN (ricetta Frutti Rossi Fizz)
+1. Cerca sul web le ricette reali di riferimento e prendi solo lo schema comune: la ricetta resta originale, mai copiata.
+2. Foto con profilo `blog` in `assets/images/blog/<slug>.webp`, guardarla prima.
+3. Articolo IT in `_posts/AAAA-MM-GG-<slug>.md` + EN in `en/_posts/` con stesso `ref:`.
+4. `python automation/permalink_articoli.py --apply`, poi `python automation/allinea_hash.py en`.
+5. Pubblica con `..\pubblica.ps1 -Repo <repo> -Msg "..." -Files ...` (oppure git add/commit/push), controlla IT, EN e la categoria online. Online ci mette 1-2 minuti.
+- Accenti: i nuovi articoli usano gli accenti veri (e, piu); i vecchi hanno "e'" e "piu'". Uniformare solo se Mirco lo chiede.
+
+### 4) SEO title: NON mettere il nome del sito nel `seo_title`
+- `_includes/seo.html` compone `<title>` = `seo_title - nome sito`. Se nel `seo_title` c'e' gia' "| Spirito Libero" il nome esce DOPPIO.
+- Fatto il 31/10/2026: tolto il suffisso da 133 file (IT+EN, _negozio, _posts, filosofia, categorie), commit 60ab276. Controllo veloce su qualsiasi sito: `git grep -n -I -E "seo_title:.*\|"`. Quando si genera contenuto con script, il `seo_title` deve essere SOLO il titolo.
+- Regola identica per i prodotti/articoli nuovi: titolo breve e unico, senza nome sito.
+
+### 5) Cose da ricordare quando si migra un sito da CartaCMS
+- Export in sola lettura via API, dati fuori dalla repo (e' pubblica), token mai scritto in repo. Script in `claudetemp\migra_analcolici\` (export.py, export2.py, fase4a_en.py, tr_prodotti_en.py, fase4b_marketing.py).
+- Testi "marketing/filosofia": solo messaggi di marca, NON dichiarazioni verificabili ("handmade in Italy" non c'e' nell'origine: non scriverlo senza conferma di Mirco).
+- Traduzione automatica articoli EN (`traduci_lingua.py en`) sbaglia termini bar e nomi propri (es. "Spirito Libero" -> "Free Spirit", "Garnish" -> "Gasket"): rileggere sempre.
+
+### 6) Stato a fine sessione (31/10/2026)
+- [x] Online IT + EN: negozio 48 prodotti (con foto), blog 14 articoli, filosofia, home marketing, seo_title puliti.
+- [ ] Controllo a occhio di Mirco: foto tequila (sfondo, dimensioni), lightbox, scheda EN, traduzioni articoli EN.
+- [ ] Aggiornare i numeri in home/filosofia (48 prodotti) se vogliono restare corretti.
+- [ ] Mancano `contact_endpoint`, `whatsapp`, `email` in `_config.yml`; pagine Privacy e Cookie.
+- [ ] Opzionale: altre varianti stesso trattamento per gin, rum, ecc.; altre ricette agrumata/tropicale; accenti vecchi articoli.
