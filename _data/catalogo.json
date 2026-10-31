@@ -543,6 +543,24 @@
     },
     {
       "tipo": "fisico",
+      "id": "tequila-tonic-0",
+      "nome": "Tequila Tonic 0%",
+      "categoria": "distillati-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Tequila blanco, acqua tonica e una nota di lime: il long drink fresco e frizzante dal finale amarognolo, in versione 0%.",
+      "descrizione_completa": "Tequila blanco, acqua tonica e una nota di lime: il long drink fresco e frizzante dal finale amarognolo, in versione 0%.\nServilo in un bicchiere alto con tanto ghiaccio e una fetta di pompelmo o di lime.\nFormato 1L, pronto da versare. Ordine minimo: 1 bottiglia.",
+      "immagine": "assets/images/prodotti/tequila-tonic-0.webp",
+      "icona": "🥃",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Blanco tequila, tonic water and a touch of lime: the fresh, sparkling long drink with a bittersweet finish, in a 0% version.",
+          "descrizione_completa": "Blanco tequila, tonic water and a touch of lime: the fresh, sparkling long drink with a bittersweet finish, in a 0% version.\nServe it in a tall glass with plenty of ice and a slice of grapefruit or lime.\n1L bottle, ready to pour. Minimum order: 1 bottle."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
       "id": "cuba-libre-0",
       "nome": "Cuba Libre 0%",
       "categoria": "long-drink-0",
