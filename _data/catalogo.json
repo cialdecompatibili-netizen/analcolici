@@ -399,6 +399,24 @@
     },
     {
       "tipo": "fisico",
+      "id": "mezcal-mule-0",
+      "nome": "Mezcal Mule 0%",
+      "categoria": "distillati-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Mezcal analcolico, ginger beer e lime: un Mule affumicato e speziato, senza alcol.",
+      "descrizione_completa": "Mezcal analcolico, ginger beer e lime: un Mule affumicato e speziato, senza alcol.\nServilo in un bicchiere di rame o in un tumbler con tanto ghiaccio e una fetta di lime.\nFormato 1L, pronto da versare. Ordine minimo: 1 bottiglia.",
+      "immagine": "assets/images/prodotti/mezcal-mule-0.webp",
+      "icona": "🥃",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Non-alcoholic mezcal, ginger beer and lime: a smoky, spicy Mule without alcohol.",
+          "descrizione_completa": "Non-alcoholic mezcal, ginger beer and lime: a smoky, spicy Mule without alcohol.\nServe it in a copper mug or a tumbler with plenty of ice and a lime slice.\n1L bottle, ready to pour. Minimum order: 1 bottle."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
       "id": "tommys-margarita-0",
       "nome": "Tommy's Margarita 0%",
       "categoria": "distillati-0",
