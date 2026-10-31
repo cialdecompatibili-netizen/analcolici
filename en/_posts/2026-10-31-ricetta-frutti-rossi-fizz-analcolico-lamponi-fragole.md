@@ -1,0 +1,18 @@
+---
+layout: single
+title: "Recipe: Red Berry Fizz non-alcoholic mocktail with raspberries, strawberries and pomegranate"
+date: 2026-10-31
+permalink: /en/blog/mocktail-recipes/ricetta-frutti-rossi-fizz-analcolico-lamponi-fragole/
+excerpt: "How to make a red, sweet and fizzy red berry mocktail: muddled raspberries, strawberries and blueberries, pomegranate juice, lime and a sparkling finish."
+seo_title: "Red Berry Mocktail Recipe, Non-Alcoholic | Spirito Libero"
+seo_description: "Red berry mocktail recipe: sweet, ruby red and fizzy, with raspberries, strawberries, pomegranate and lime. Ready in 5 minutes, alcohol-free."
+categories:
+  - "Mocktail Recipes"
+tr: tradotto
+ref: ricetta-frutti-rossi-fizz-analcolico-lamponi-fragole
+header:
+  teaser: "/assets/images/blog/ricetta-frutti-rossi-fizz-analcolico-lamponi-fragole.webp"
+tr_hash: yk5sdz
+---
+
+<p>Red berry mocktails are among the most requested drinks: ruby color, the scent of the woods and a sweet taste that pleases everyone. This version is inspired by the best-loved berry mocktails, from the red berry mojito to raspberry and thyme, and is all about balance: the full sweetness of raspberries, strawberries and blueberries, a touch of pomegranate for depth and a little lime to keep the palate fresh.</p><h2>Ingredients (1 tall glass)</h2><ul><li>6 fresh raspberries (frozen ones work too)</li><li>3 strawberries, chopped</li><li>6 blueberries or blackberries</li><li>4 fresh mint leaves</li><li>20 ml red berry syrup (see below) or raspberry syrup</li><li>40 ml pomegranate juice</li><li>15 ml fresh lime juice</li><li>100 ml sparkling lemonade (or soda for a less sweet version)</li><li>Ice cubes</li><li>A raspberry, a strawberry and a mint sprig to garnish</li></ul><h2>Red berry syrup (for 4-5 drinks)</h2><p>Put 150 g of mixed red berries, 100 g of sugar and 100 ml of water in a small saucepan. Bring to a boil, lower the heat and simmer for 10 minutes, crushing the fruit with the back of a spoon. Strain through a fine sieve and let cool. It keeps in the fridge for up to a week.</p><h2>Method</h2><p>In a tall glass, gently muddle the raspberries, strawberries, blueberries and mint: they should release juice and color without turning to mush. Add the syrup, pomegranate juice and lime juice and stir. Fill the glass with ice, slowly pour in the sparkling lemonade along the side of the glass and stir once from the bottom up. Garnish with the raspberry, the strawberry and the mint sprig, clapped between your hands to release its aroma.</p><h2>Why it works</h2><p>The sweetness comes from three sources that add up without becoming cloying: fresh fruit, syrup and lemonade. Lime and pomegranate keep it balanced, bringing acidity and a slightly tannic note, the kind of structure alcohol would give in a traditional cocktail. Muddling fresh fruit instead of using juice alone adds pulp, deep color and the forest-berry aroma a plain syrup can't give.</p><h2>Variations</h2><ul><li><strong>Raspberry and thyme:</strong> use a sprig of thyme instead of mint and swap the lemonade for a non-alcoholic sparkling wine: perfect for a toast.</li><li><strong>Less sweet:</strong> use soda and cut the syrup to 10 ml.</li><li><strong>Frozen:</strong> blend 150 g of frozen red berries with the syrup, the lime and a handful of ice, then top with bubbles: it's a drinkable granita.</li><li><strong>Rose and raspberry:</strong> add a few drops of rose water and garnish with a petal.</li></ul><h2>A tip</h2><p>Don't give up on red berries out of season: frozen ones, thawed with their juice, have excellent color and sweetness all year round. Chill the glass in the freezer for a few minutes before serving: the ice will melt more slowly and the bubbles will last longer.</p>
