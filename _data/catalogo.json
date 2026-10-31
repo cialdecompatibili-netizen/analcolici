@@ -387,7 +387,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Tequila blanco, lime e acqua frizzante: il long drink texano pulito e minimale, in versione 0%.",
       "descrizione_completa": "Tequila blanco, lime e acqua frizzante: il long drink texano pulito e minimale, in versione 0%.\nServilo in un bicchiere alto con tanto ghiaccio e uno spicchio di lime.\nFormato 1L, pronto da versare. Ordine minimo: 1 bottiglia.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/ranch-water-0.webp",
       "icona": "🥃",
       "visibile": true,
       "tr": {
@@ -405,7 +405,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Tequila, lime e solo agave: la Margarita nella sua versione piu' pura, senza triple sec, ora anche 0%.",
       "descrizione_completa": "Tequila, lime e solo agave: la Margarita nella sua versione piu' pura, senza triple sec, ora anche 0%.\nServila su ghiaccio con una fetta di lime, senza bordo salato, per gustare l'agave.\nFormato 1L, pronto da versare. Ordine minimo: 1 bottiglia.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/tommys-margarita-0.webp",
       "icona": "🥃",
       "visibile": true,
       "tr": {
@@ -423,7 +423,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Tequila, succo d'arancia e granatina: il tramonto nel bicchiere, colorato e fruttato, in versione 0%.",
       "descrizione_completa": "Tequila, succo d'arancia e granatina: il tramonto nel bicchiere, colorato e fruttato, in versione 0%.\nServila ben fredda su ghiaccio con una fetta d'arancia.\nFormato 1L, pronto da versare. Ordine minimo: 1 bottiglia.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/tequila-sunrise-0.webp",
       "icona": "🥃",
       "visibile": true,
       "tr": {
@@ -441,7 +441,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Tequila, ginger beer, lime e ribes nero: il cocktail piccante e fruttato che non si dimentica, ora anche 0%.",
       "descrizione_completa": "Tequila, ginger beer, lime e ribes nero: il cocktail piccante e fruttato che non si dimentica, ora anche 0%.\nServilo in un bicchiere alto con ghiaccio e una fetta di lime.\nFormato 1L, pronto da versare. Ordine minimo: 1 bottiglia.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/el-diablo-0.webp",
       "icona": "🥃",
       "visibile": true,
       "tr": {
@@ -459,7 +459,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Tequila, lime e peperoncino: la Margarita con un colpo di calore, dolce, acida e piccante insieme, in 0%.",
       "descrizione_completa": "Tequila, lime e peperoncino: la Margarita con un colpo di calore, dolce, acida e piccante insieme, in 0%.\nServila su ghiaccio con una fetta di lime e, se ti piace, un bordo di sale e peperoncino.\nFormato 1L, pronto da versare. Ordine minimo: 1 bottiglia.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/picante-margarita-0.webp",
       "icona": "🥃",
       "visibile": true,
       "tr": {
@@ -477,7 +477,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Tequila reposado, mezcal, agave e bitter: l'Old Fashioned messicano, profondo e leggermente affumicato, in versione 0%.",
       "descrizione_completa": "Tequila reposado, mezcal, agave e bitter: l'Old Fashioned messicano, profondo e leggermente affumicato, in versione 0%.\nServilo liscio su un grande cubo di ghiaccio con una scorza d'arancia.\nFormato 1L, pronto da versare. Ordine minimo: 1 bottiglia.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/oaxaca-old-fashioned-0.webp",
       "icona": "🥃",
       "visibile": true,
       "tr": {
