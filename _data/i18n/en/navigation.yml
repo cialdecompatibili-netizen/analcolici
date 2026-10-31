@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /en/
+  - title: "Shop"
+    url: /en/shop/
+  - title: "Blog"
+    url: /en/blog/
+  - title: "Philosophy"
+    url: /en/philosophy/
+  - title: "About us"
+    url: /en/about-us/
+  - title: "Contact"
+    url: /en/contact/

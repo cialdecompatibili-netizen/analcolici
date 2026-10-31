@@ -6,28 +6,52 @@
       "nome": "Aperitivi 0%",
       "icona": "🍸",
       "descrizione": "Il rito dell'aperitivo, senza compromessi. Amaro, agrumato, botanico: tutta l'anima dei grandi classici da aperitivo in versione analcolica, pronta da versare.",
-      "immagine": "assets/images/categorie/aperitivi-0.jpg"
+      "immagine": "assets/images/categorie/aperitivi-0.jpg",
+      "tr": {
+        "en": {
+          "nome": "Aperitifs 0%",
+          "descrizione": "The aperitivo ritual, without compromise. Bitter, citrusy, botanical: the whole soul of the great aperitivo classics in a non-alcoholic version, ready to pour."
+        }
+      }
     },
     {
       "id": "long-drink-0",
       "nome": "Long Drink 0%",
       "icona": "🍺",
       "descrizione": "Fresco, dissetante, da bere lungo. Menta, lime, zenzero e spezie: i long drink più amati reinterpretati in chiave analcolica, sempre con ghiaccio.",
-      "immagine": "assets/images/categorie/long-drink-0.jpg"
+      "immagine": "assets/images/categorie/long-drink-0.jpg",
+      "tr": {
+        "en": {
+          "nome": "Long Drinks 0%",
+          "descrizione": "Fresh, thirst-quenching, made for sipping. Mint, lime, ginger and spices: the best-loved long drinks reimagined without alcohol, always served over ice."
+        }
+      }
     },
     {
       "id": "tropicali-0",
       "nome": "Tropicali 0%",
       "icona": "🍌",
       "descrizione": "Frutta, spezie e vacanza in ogni sorso. Ananas, lime, pomodoro speziato: i grandi classici tropicali e speziati, in versione analcolica.",
-      "immagine": "assets/images/categorie/tropicali-0.jpg"
+      "immagine": "assets/images/categorie/tropicali-0.jpg",
+      "tr": {
+        "en": {
+          "nome": "Tropical 0%",
+          "descrizione": "Fruit, spices and holiday in every sip. Pineapple, lime, spiced tomato: the great tropical and spicy classics, in a non-alcoholic version."
+        }
+      }
     },
     {
       "id": "distillati-0",
       "nome": "Distillati 0%",
       "icona": "🥃",
       "descrizione": "I grandi distillati della mixology internazionale, reinventati in versione 0%: gin, vermouth, rum, tequila, whisky. Stessa complessità aromatica, senza una goccia di alcol.",
-      "immagine": "assets/images/categorie/distillati-0.jpg"
+      "immagine": "assets/images/categorie/distillati-0.jpg",
+      "tr": {
+        "en": {
+          "nome": "Spirits 0%",
+          "descrizione": "The great spirits of international mixology, reinvented at 0%: gin, vermouth, rum, tequila, whiskey. The same aromatic complexity, without a drop of alcohol."
+        }
+      }
     }
   ],
   "prodotti": [
@@ -41,7 +65,13 @@
       "descrizione_completa": "Bitter, vermouth rosso e soda: il precursore del Negroni, tradizione milanese, ora 0%.",
       "immagine": "assets/images/prodotti/americano-0.jpg",
       "icona": "🍸",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Bitter, red vermouth and soda: the forerunner of the Negroni, a Milanese tradition, now 0%.",
+          "descrizione_completa": "Bitter, red vermouth and soda: the forerunner of the Negroni, a Milanese tradition, now 0%."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -53,7 +83,13 @@
       "descrizione_completa": "Bitter arancione, prosecco 0% e soda: lo spritz che ha conquistato il mondo, ora anche 0%.",
       "immagine": "assets/images/prodotti/aperol-style-spritz-0.jpg",
       "icona": "🍸",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Orange bitter, 0% prosecco and soda: the spritz that conquered the world, now also 0%.",
+          "descrizione_completa": "Orange bitter, 0% prosecco and soda: the spritz that conquered the world, now also 0%."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -65,7 +101,13 @@
       "descrizione_completa": "Vino bianco 0%, bitter e soda: l'aperitivo semplice di tutti i giorni, in versione 0%.",
       "immagine": "assets/images/prodotti/bicicletta-0.jpg",
       "icona": "🍸",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "0% white wine, bitter and soda: the simple everyday aperitivo, in a 0% version.",
+          "descrizione_completa": "0% white wine, bitter and soda: the simple everyday aperitivo, in a 0% version."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -77,7 +119,13 @@
       "descrizione_completa": "Agrumi e botaniche amare: l'aperitivo italiano storico, gia' senza alcol per tradizione.",
       "immagine": "assets/images/prodotti/crodino-style-0.jpg",
       "icona": "🍸",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Citrus and bitter botanicals: the historic Italian aperitivo, alcohol-free by tradition.",
+          "descrizione_completa": "Citrus and bitter botanicals: the historic Italian aperitivo, alcohol-free by tradition."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -89,7 +137,13 @@
       "descrizione_completa": "Bitter e succo d'arancia fresco: l'aperitivo virale del momento, ora anche 0%.",
       "immagine": "assets/images/prodotti/garibaldi-0.jpg",
       "icona": "🍸",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Bitter and fresh orange juice: the viral aperitivo of the moment, now also 0%.",
+          "descrizione_completa": "Bitter and fresh orange juice: the viral aperitivo of the moment, now also 0%."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -101,7 +155,13 @@
       "descrizione_completa": "Botanico, erbaceo, pulito: il Gin Tonic analcolico ricrea l'equilibrio tra ginepro e china senza alcol, per un aperitivo elegante e rinfrescante. Perfetto su ghiaccio con una fetta di lime o un rametto di rosmarino.\nFormato 1L, pronto da versare. Ordine minimo: 1 bottiglia.",
       "immagine": "assets/images/prodotti/gin-tonic-0.jpg",
       "icona": "🍸",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Botanical, herbaceous, clean: the non-alcoholic Gin & Tonic recreates the balance between juniper and quinine without alcohol, for an elegant, refreshing aperitivo. Perfect over ice with a slice of lime or a sprig of rosemary.",
+          "descrizione_completa": "Botanical, herbaceous, clean: the non-alcoholic Gin & Tonic recreates the balance between juniper and quinine without alcohol, for an elegant, refreshing aperitivo. Perfect over ice with a slice of lime or a sprig of rosemary.\n1L bottle, ready to pour. Minimum order: 1 bottle."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -113,7 +173,13 @@
       "descrizione_completa": "Fiori di sambuco, menta fresca e bollicine: l'aperitivo piu' fresco e fotogenico, in versione 0%.",
       "immagine": "assets/images/prodotti/hugo-0.jpg",
       "icona": "🍸",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Elderflower, fresh mint and bubbles: the freshest, most photogenic aperitivo, in a 0% version.",
+          "descrizione_completa": "Elderflower, fresh mint and bubbles: the freshest, most photogenic aperitivo, in a 0% version."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -125,7 +191,13 @@
       "descrizione_completa": "Amaro, intenso, botanico: il Negroni analcolico riporta tutta la profondit&agrave; del classico intramontabile, senza una goccia di alcol. Note di arancia amara, erbe aromatiche e un fondo leggermente resinoso, pensato per essere servito su ghiaccio con una fetta d'arancia.\nFormato 1L, pronto da versare. Ordine minimo: 1 bottiglia.",
       "immagine": "assets/images/prodotti/negroni-0.jpg",
       "icona": "🍸",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Bitter, intense, botanical: the non-alcoholic Negroni brings back all the depth of the timeless classic, without a drop of alcohol. Notes of bitter orange, aromatic herbs and a slightly resinous finish, made to be served over ice with an orange slice.",
+          "descrizione_completa": "Bitter, intense, botanical: the non-alcoholic Negroni brings back all the depth of the timeless classic, without a drop of alcohol. Notes of bitter orange, aromatic herbs and a slightly resinous finish, made to be served over ice with an orange slice.\n1L bottle, ready to pour. Minimum order: 1 bottle."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -137,7 +209,13 @@
       "descrizione_completa": "Agrumato, brillante, immancabile: lo Spritz analcolico porta in tavola il rito dell'aperitivo italiano pi&ugrave; amato al mondo, in versione 0%. Arancia amara e note effervescenti per un aperitivo leggero da gustare con ghiaccio e una fetta d'arancia.\nFormato 1L, pronto da versare. Ordine minimo: 1 bottiglia.",
       "immagine": "assets/images/prodotti/spritz-0.jpg",
       "icona": "🍸",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Citrusy, bright, unmissable: the non-alcoholic Spritz brings the world's best-loved Italian aperitivo ritual to your table, in a 0% version. Bitter orange and sparkling notes for a light aperitivo to enjoy with ice and an orange slice.",
+          "descrizione_completa": "Citrusy, bright, unmissable: the non-alcoholic Spritz brings the world's best-loved Italian aperitivo ritual to your table, in a 0% version. Bitter orange and sparkling notes for a light aperitivo to enjoy with ice and an orange slice.\n1L bottle, ready to pour. Minimum order: 1 bottle."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -149,7 +227,13 @@
       "descrizione_completa": "Vermouth aromatico e tonica: la tendenza 2026 in chiave moderna, ora anche 0%.",
       "immagine": "assets/images/prodotti/vermouth-tonic-0.jpg",
       "icona": "🍸",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Aromatic vermouth and tonic: the 2026 trend in a modern key, now also 0%.",
+          "descrizione_completa": "Aromatic vermouth and tonic: the 2026 trend in a modern key, now also 0%."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -161,7 +245,13 @@
       "descrizione_completa": "Vodka, caffe' espresso e vaniglia: il cocktail energizzante del momento, senza alcol.",
       "immagine": "assets/images/prodotti/espresso-martini-0.jpg",
       "icona": "🥃",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Vodka, espresso coffee and vanilla: the energising cocktail of the moment, alcohol-free.",
+          "descrizione_completa": "Vodka, espresso coffee and vanilla: the energising cocktail of the moment, alcohol-free."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -173,7 +263,13 @@
       "descrizione_completa": "Ginepro, agrumi e botaniche in perfetto equilibrio: il classico intramontabile, in versione 0%.",
       "immagine": "assets/images/prodotti/gin-tonic-botanico-0.jpg",
       "icona": "🥃",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Juniper, citrus and botanicals in perfect balance: the timeless classic, in a 0% version.",
+          "descrizione_completa": "Juniper, citrus and botanicals in perfect balance: the timeless classic, in a 0% version."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -185,7 +281,13 @@
       "descrizione_completa": "Whisky di segale, vermouth dolce e bitter: l'eleganza newyorkese, in versione 0%.",
       "immagine": "assets/images/prodotti/manhattan-rye-style-0.jpg",
       "icona": "🥃",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Rye whiskey, sweet vermouth and bitters: New York elegance, in a 0% version.",
+          "descrizione_completa": "Rye whiskey, sweet vermouth and bitters: New York elegance, in a 0% version."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -197,7 +299,13 @@
       "descrizione_completa": "Gin, vermouth e amaro in equilibrio perfetto: il cocktail piu' bevuto al mondo, ora anche 0%.",
       "immagine": "assets/images/prodotti/negroni-signature-0.jpg",
       "icona": "🥃",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Gin, vermouth and bitter in perfect balance: the world's most ordered cocktail, now also 0%.",
+          "descrizione_completa": "Gin, vermouth and bitter in perfect balance: the world's most ordered cocktail, now also 0%."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -209,7 +317,13 @@
       "descrizione_completa": "Whisky, zucchero e bitter d'arancia: il nonno di tutti i cocktail, ora anche 0%.",
       "immagine": "assets/images/prodotti/old-fashioned-0.jpg",
       "icona": "🥃",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Whiskey, sugar and orange bitters: the grandfather of all cocktails, now also 0%.",
+          "descrizione_completa": "Whiskey, sugar and orange bitters: the grandfather of all cocktails, now also 0%."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -221,7 +335,13 @@
       "descrizione_completa": "Rum, lime fresco e zucchero di canna: il classico cubano, ora anche senza alcol.",
       "immagine": "assets/images/prodotti/rum-daiquiri-style-0.jpg",
       "icona": "🥃",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Rum, fresh lime and cane sugar: the Cuban classic, now alcohol-free.",
+          "descrizione_completa": "Rum, fresh lime and cane sugar: the Cuban classic, now alcohol-free."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -233,7 +353,13 @@
       "descrizione_completa": "Bitter veneziano, prosecco 0% e soda: lo spritz della tradizione, tutto da riscoprire senza alcol.",
       "immagine": "assets/images/prodotti/select-spritz-0.jpg",
       "icona": "🥃",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Venetian bitter, 0% prosecco and soda: the traditional spritz, ready to be rediscovered without alcohol.",
+          "descrizione_completa": "Venetian bitter, 0% prosecco and soda: the traditional spritz, ready to be rediscovered without alcohol."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -245,7 +371,13 @@
       "descrizione_completa": "Tequila, pompelmo rosa e lime: fresco, agrumato, in versione 0%.",
       "immagine": "assets/images/prodotti/tequila-paloma-0.jpg",
       "icona": "🥃",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Tequila, pink grapefruit and lime: fresh, citrusy, in a 0% version.",
+          "descrizione_completa": "Tequila, pink grapefruit and lime: fresh, citrusy, in a 0% version."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -257,7 +389,13 @@
       "descrizione_completa": "Erbe, spezie e agrumi: il vermuttino alla torinese, la grande tendenza 2026, in versione 0%.",
       "immagine": "assets/images/prodotti/vermouth-bianco-soda-0.jpg",
       "icona": "🥃",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Herbs, spices and citrus: the Turin-style vermuttino, the big 2026 trend, in a 0% version.",
+          "descrizione_completa": "Herbs, spices and citrus: the Turin-style vermuttino, the big 2026 trend, in a 0% version."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -269,7 +407,13 @@
       "descrizione_completa": "Vodka e salamoia di olive: l'eleganza secca del Dirty Martini, in versione 0%.",
       "immagine": "assets/images/prodotti/vodka-martini-dirty-0.jpg",
       "icona": "🥃",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Vodka and olive brine: the dry elegance of the Dirty Martini, in a 0% version.",
+          "descrizione_completa": "Vodka and olive brine: the dry elegance of the Dirty Martini, in a 0% version."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -281,7 +425,13 @@
       "descrizione_completa": "Speziato, avvolgente, easy drinking: il Cuba Libre analcolico reinterpreta il classico rum&amp;cola con note speziate e un twist di lime, tutto senza alcol. Perfetto su ghiaccio, in ogni occasione.\nFormato 1L, pronto da versare. Ordine minimo: 1 bottiglia.",
       "immagine": "assets/images/prodotti/cuba-libre-0.jpg",
       "icona": "🍺",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Spicy, enveloping, easy drinking: the non-alcoholic Cuba Libre reinterprets the classic rum and cola with spiced notes and a twist of lime, all without alcohol. Perfect over ice, for every occasion.",
+          "descrizione_completa": "Spicy, enveloping, easy drinking: the non-alcoholic Cuba Libre reinterprets the classic rum and cola with spiced notes and a twist of lime, all without alcohol. Perfect over ice, for every occasion.\n1L bottle, ready to pour. Minimum order: 1 bottle."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -293,7 +443,13 @@
       "descrizione_completa": "Rum scuro e ginger beer piccante: il long drink caraibico intenso, ora anche 0%.",
       "immagine": "assets/images/prodotti/dark-stormy-0.jpg",
       "icona": "🍺",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Dark rum and spicy ginger beer: the intense Caribbean long drink, now also 0%.",
+          "descrizione_completa": "Dark rum and spicy ginger beer: the intense Caribbean long drink, now also 0%."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -305,7 +461,13 @@
       "descrizione_completa": "Gin, basilico fresco e lime: il long drink erbaceo di tendenza, in versione 0%.",
       "immagine": "assets/images/prodotti/gin-basil-smash-0.jpg",
       "icona": "🍺",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Gin, fresh basil and lime: the trendy herbaceous long drink, in a 0% version.",
+          "descrizione_completa": "Gin, fresh basil and lime: the trendy herbaceous long drink, in a 0% version."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -317,7 +479,13 @@
       "descrizione_completa": "Gin, cetriolo fresco e bollicine: il long drink piu' rinfrescante dell'estate, in 0%.",
       "immagine": "assets/images/prodotti/gin-cucumber-fizz-0.jpg",
       "icona": "🍺",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Gin, fresh cucumber and bubbles: the most refreshing long drink of the summer, at 0%.",
+          "descrizione_completa": "Gin, fresh cucumber and bubbles: the most refreshing long drink of the summer, at 0%."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -329,7 +497,13 @@
       "descrizione_completa": "Fresco, mentolato, dissetante: il Mojito analcolico racchiude tutta la vivacit&agrave; del classico cubano in un formato pronto da versare. Menta fresca e lime per un long drink estivo tutto l'anno.\nFormato 1L, pronto da versare. Ordine minimo: 1 bottiglia.",
       "immagine": "assets/images/prodotti/mojito-0.jpg",
       "icona": "🍺",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Fresh, minty, thirst-quenching: the non-alcoholic Mojito captures all the vibrancy of the Cuban classic in a ready-to-pour bottle. Fresh mint and lime for a summer long drink all year round.",
+          "descrizione_completa": "Fresh, minty, thirst-quenching: the non-alcoholic Mojito captures all the vibrancy of the Cuban classic in a ready-to-pour bottle. Fresh mint and lime for a summer long drink all year round.\n1L bottle, ready to pour. Minimum order: 1 bottle."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -341,7 +515,13 @@
       "descrizione_completa": "Piccante, frizzante, deciso: il Moscow Mule analcolico unisce zenzero e lime in un long drink dal carattere unico, senza alcol. Da servire ghiacciato, magari nella classica mug di rame.\nFormato 1L, pronto da versare. Ordine minimo: 1 bottiglia.",
       "immagine": "assets/images/prodotti/moscow-mule-0.jpg",
       "icona": "🍺",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Spicy, sparkling, bold: the non-alcoholic Moscow Mule combines ginger and lime in a long drink with a unique character, without alcohol. Serve ice cold, perhaps in the classic copper mug.",
+          "descrizione_completa": "Spicy, sparkling, bold: the non-alcoholic Moscow Mule combines ginger and lime in a long drink with a unique character, without alcohol. Serve ice cold, perhaps in the classic copper mug.\n1L bottle, ready to pour. Minimum order: 1 bottle."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -353,7 +533,13 @@
       "descrizione_completa": "Tequila, pompelmo e soda: la versione long e dissetante della Paloma, in 0%.",
       "immagine": "assets/images/prodotti/paloma-long-0.jpg",
       "icona": "🍺",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Tequila, grapefruit and soda: the long, thirst-quenching version of the Paloma, at 0%.",
+          "descrizione_completa": "Tequila, grapefruit and soda: the long, thirst-quenching version of the Paloma, at 0%."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -365,7 +551,13 @@
       "descrizione_completa": "Rum e ginger beer: il long drink facile e sempre giusto, ora anche 0%.",
       "immagine": "assets/images/prodotti/rum-ginger-0.jpg",
       "icona": "🍺",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Rum and ginger beer: the easy, always-right long drink, now also 0%.",
+          "descrizione_completa": "Rum and ginger beer: the easy, always-right long drink, now also 0%."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -377,7 +569,13 @@
       "descrizione_completa": "Vodka, soda e agrumi freschi: il long drink piu' pulito e leggero, in versione 0%.",
       "immagine": "assets/images/prodotti/vodka-soda-citrus-0.jpg",
       "icona": "🍺",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Vodka, soda and fresh citrus: the cleanest, lightest long drink, in a 0% version.",
+          "descrizione_completa": "Vodka, soda and fresh citrus: the cleanest, lightest long drink, in a 0% version."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -389,7 +587,13 @@
       "descrizione_completa": "Whisky e soda ghiacciata: il long drink giapponese essenziale, in versione 0%.",
       "immagine": "assets/images/prodotti/whiskey-highball-0.jpg",
       "icona": "🍺",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Whiskey and ice-cold soda: the essential Japanese long drink, in a 0% version.",
+          "descrizione_completa": "Whiskey and ice-cold soda: the essential Japanese long drink, in a 0% version."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -401,7 +605,13 @@
       "descrizione_completa": "Speziata, sapida, sorprendente: la Bloody Mary analcolica unisce pomodoro e un mix di spezie per un drink dal carattere deciso, perfetto anche fuori dagli schemi classici dell'aperitivo. Senza alcol, tutto il gusto.\nFormato 1L, pronta da versare. Ordine minimo: 1 bottiglia.",
       "immagine": "assets/images/prodotti/bloody-mary-0.jpg",
       "icona": "🍌",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Spicy, savoury, surprising: the non-alcoholic Bloody Mary combines tomato and a blend of spices for a drink with real character, perfect even outside the classic aperitivo. No alcohol, all the flavour.",
+          "descrizione_completa": "Spicy, savoury, surprising: the non-alcoholic Bloody Mary combines tomato and a blend of spices for a drink with real character, perfect even outside the classic aperitivo. No alcohol, all the flavour.\n1L bottle, ready to pour. Minimum order: 1 bottle."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -413,7 +623,13 @@
       "descrizione_completa": "Rum, crema di cocco, menta fresca e lime: il twist tropicale sul Mojito, in versione 0%.",
       "immagine": "assets/images/prodotti/coco-mojito-0.jpg",
       "icona": "🍌",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Rum, coconut cream, fresh mint and lime: the tropical twist on the Mojito, in a 0% version.",
+          "descrizione_completa": "Rum, coconut cream, fresh mint and lime: the tropical twist on the Mojito, in a 0% version."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -425,7 +641,13 @@
       "descrizione_completa": "Agrumato, essenziale, elegante: il Daiquiri analcolico racchiude lime fresco e dolcezza di canna in equilibrio perfetto, senza alcol. Il tropicale minimal per eccellenza, pronto da versare.\nFormato 1L, pronto da versare. Ordine minimo: 1 bottiglia.",
       "immagine": "assets/images/prodotti/daiquiri-0.jpg",
       "icona": "🍌",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Citrusy, essential, elegant: the non-alcoholic Daiquiri captures fresh lime and cane sweetness in perfect balance, without alcohol. The ultimate minimalist tropical, ready to pour.",
+          "descrizione_completa": "Citrusy, essential, elegant: the non-alcoholic Daiquiri captures fresh lime and cane sweetness in perfect balance, without alcohol. The ultimate minimalist tropical, ready to pour.\n1L bottle, ready to pour. Minimum order: 1 bottle."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -437,7 +659,13 @@
       "descrizione_completa": "Rum tropicale, mandorla e lime: il classico tiki per eccellenza, ora anche 0%.",
       "immagine": "assets/images/prodotti/mai-tai-0.jpg",
       "icona": "🍌",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Tropical rum, almond and lime: the quintessential tiki classic, now also 0%.",
+          "descrizione_completa": "Tropical rum, almond and lime: the quintessential tiki classic, now also 0%."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -449,7 +677,13 @@
       "descrizione_completa": "Mango fresco, cocco e rum: il twist tropicale sulla classica Colada, in versione 0%.",
       "immagine": "assets/images/prodotti/mango-colada-0.jpg",
       "icona": "🍌",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Fresh mango, coconut and rum: the tropical twist on the classic Colada, in a 0% version.",
+          "descrizione_completa": "Fresh mango, coconut and rum: the tropical twist on the classic Colada, in a 0% version."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -461,7 +695,13 @@
       "descrizione_completa": "Acida, decisa, iconica: la Margarita analcolica porta lime fresco e dolcezza di agave in un classico messicano rivisitato senza alcol. Da servire su ghiaccio, volendo con bordo salato.\nFormato 1L, pronta da versare. Ordine minimo: 1 bottiglia.",
       "immagine": "assets/images/prodotti/margarita-0.jpg",
       "icona": "🍌",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Tart, bold, iconic: the non-alcoholic Margarita brings fresh lime and agave sweetness to a Mexican classic, reimagined without alcohol. Serve over ice, with a salted rim if you like.",
+          "descrizione_completa": "Tart, bold, iconic: the non-alcoholic Margarita brings fresh lime and agave sweetness to a Mexican classic, reimagined without alcohol. Serve over ice, with a salted rim if you like.\n1L bottle, ready to pour. Minimum order: 1 bottle."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -473,7 +713,13 @@
       "descrizione_completa": "Rum, ananas, cocco e noce moscata: il classico tiki caraibico, ora anche 0%.",
       "immagine": "assets/images/prodotti/painkiller-0.jpg",
       "icona": "🍌",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Rum, pineapple, coconut and nutmeg: the Caribbean tiki classic, now also 0%.",
+          "descrizione_completa": "Rum, pineapple, coconut and nutmeg: the Caribbean tiki classic, now also 0%."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -485,7 +731,13 @@
       "descrizione_completa": "Vodka e frutto della passione: il cocktail piu' fotogenico e virale del momento, in 0%.",
       "immagine": "assets/images/prodotti/passion-fruit-martini-0.jpg",
       "icona": "🍌",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Vodka and passion fruit: the most photogenic, viral cocktail of the moment, at 0%.",
+          "descrizione_completa": "Vodka and passion fruit: the most photogenic, viral cocktail of the moment, at 0%."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -497,7 +749,13 @@
       "descrizione_completa": "Cremosa, tropicale, avvolgente: la Pi&ntilde;a Colada analcolica unisce ananas e cocco per un viaggio ai caraibi in ogni sorso, senza una goccia di alcol. Da servire ben fredda, con o senza ghiaccio.\nFormato 1L, pronta da versare. Ordine minimo: 1 bottiglia.",
       "immagine": "assets/images/prodotti/pina-colada-0.jpg",
       "icona": "🍌",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Creamy, tropical, enveloping: the non-alcoholic Piña Colada combines pineapple and coconut for a trip to the Caribbean in every sip, without a drop of alcohol. Serve well chilled, with or without ice.",
+          "descrizione_completa": "Creamy, tropical, enveloping: the non-alcoholic Piña Colada combines pineapple and coconut for a trip to the Caribbean in every sip, without a drop of alcohol. Serve well chilled, with or without ice.\n1L bottle, ready to pour. Minimum order: 1 bottle."
+        }
+      }
     },
     {
       "tipo": "fisico",
@@ -509,7 +767,13 @@
       "descrizione_completa": "Tequila, anguria fresca e lime: il twist estivo piu' virale sui social, in 0%.",
       "immagine": "assets/images/prodotti/watermelon-margarita-0.jpg",
       "icona": "🍌",
-      "visibile": true
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Tequila, fresh watermelon and lime: the most viral summer twist on social media, at 0%.",
+          "descrizione_completa": "Tequila, fresh watermelon and lime: the most viral summer twist on social media, at 0%."
+        }
+      }
     }
   ]
 }

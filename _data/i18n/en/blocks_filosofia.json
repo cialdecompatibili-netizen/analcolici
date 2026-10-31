@@ -1,0 +1,26 @@
+[
+  {
+    "id": "intro",
+    "nome": "Intro",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"intro\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Our philosophy</p><h2 class=\"gc-h2\">The ritual comes first</h2><p class=\"gc-lead\">Italy taught the world that the aperitivo is not a drink: it is a moment. You choose the glass, wait for the ice to do its work, raise a toast. Spirito Libero exists to protect that ritual for those who, that evening, choose not to drink alcohol, without the glass ever feeling like second best.</p></div></section></div>"
+  },
+  {
+    "id": "principi",
+    "nome": "Principles",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><div class=\"gc-plat\"><div class=\"gc-pl\"><b>Italian taste</b><p>We start from the classics Italy made famous (Negroni, Americano, Spritz) and look for their soul: the bitter, the citrus, the botanical. We don&#39;t imitate a drink, we chase its character.</p></div><div class=\"gc-pl\"><b>Care in the details</b><p>The right glass, plenty of ice, a garnish that completes without covering. We work on every recipe as if it had to sit on the counter of a good bar.</p></div><div class=\"gc-pl\"><b>Freedom of choice</b><p>Zero alcohol doesn&#39;t mean zero personality. Sip it neat over ice or use it as the base for your own recipe: you decide, freedom is in the name.</p></div></div></div></section></div>"
+  },
+  {
+    "id": "manifesto",
+    "nome": "Manifesto",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"manifesto\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Not a substitute. A choice.</h2><p class=\"gc-lead\">Forty recipes, one size, one price: 9.90 euro for 1 litre. Nothing to calculate, nothing to miss: the only hard part is deciding which one to open tonight.</p><a class=\"gc-btn\" href=\"__BASEURL__/en/shop/\">Taste the difference</a></div></section></div>"
+  },
+  {
+    "id": "cta",
+    "nome": "Links",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"cta\"><div class=\"gc-wrap\"><p><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/en/shop/\">Discover the recipes</a> &nbsp; <a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/en/blog/\">Read the guides</a></p></div></section></div>"
+  }
+]

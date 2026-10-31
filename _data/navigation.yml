@@ -14,6 +14,8 @@ main:
     url: /negozio/
   - title: "Blog"
     url: /blog/
+  - title: "Filosofia"
+    url: /filosofia/
   - title: "Chi siamo"
     url: /chi-siamo/
   - title: "Contatti"

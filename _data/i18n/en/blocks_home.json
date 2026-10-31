@@ -1,0 +1,50 @@
+[
+  {
+    "id": "hero",
+    "nome": "Hero",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Aperitifs &#183; Long Drinks &#183; Tropical &#183; Spirits &#8212; All 0%</p><h1 class=\"gc-h1\">The aperitivo ritual, <em>without compromise.</em></h1><p class=\"gc-lead\">Alcohol-free drinks inspired by the great classics: Negroni, Spritz, Mojito, Pi&#241;a Colada. 1L bottles, ready to pour over ice.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/en/shop/\">Go to the Shop</a><a class=\"gc-btn gc-btn-o\" href=\"__BASEURL__/en/contact/\">Contact us</a></div></div><div class=\"ent-cycle\"><div><b>0% alcohol, 100% flavour</b><span>The same complexity as the great classics, without a drop of alcohol</span></div><div><b>Ready to pour</b><span>No shaker, no measuring: just add ice</span></div><div><b>1L bottle, &#8364;9.90</b><span>One size and one price for every bottle</span></div></div></div></section></div>"
+  },
+  {
+    "id": "numeri",
+    "nome": "Numbers",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"numeri\"><div class=\"gc-wrap\"><div class=\"ent-stats ent-4\"><div><b>0%</b><span>Alcohol</span></div><div><b>40</b><span>Recipes</span></div><div><b>1L</b><span>Single size</span></div><div><b>&#8364;9.90</b><span>Price per bottle</span></div></div></div></section></div>"
+  },
+  {
+    "id": "collezioni",
+    "nome": "Collections",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"collezioni\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Our collections</p><h2 class=\"gc-h2\">Choose your moment</h2><div class=\"gc-plat ent-4\"><a class=\"gc-card\" href=\"__BASEURL__/en/shop/category/aperitifs-0/\"><div class=\"gc-art\"><img src=\"__BASEURL__/assets/images/categorie/aperitivi-0.jpg\" alt=\"Aperitifs 0%\" loading=\"lazy\" style=\"width:100%;height:100%;object-fit:cover\"></div><div class=\"gc-card-b\"><span class=\"gc-card-t\">Aperitifs 0%</span><span class=\"gc-card-d\">Negroni, Spritz, Gin & Tonic: the aperitivo ritual, alcohol-free.</span><span class=\"gc-card-m\">Discover &rarr;</span></div></a><a class=\"gc-card\" href=\"__BASEURL__/en/shop/category/long-drinks-0/\"><div class=\"gc-art\"><img src=\"__BASEURL__/assets/images/categorie/long-drink-0.jpg\" alt=\"Long Drinks 0%\" loading=\"lazy\" style=\"width:100%;height:100%;object-fit:cover\"></div><div class=\"gc-card-b\"><span class=\"gc-card-t\">Long Drinks 0%</span><span class=\"gc-card-d\">Mojito, Moscow Mule, Cuba Libre: fresh, thirst-quenching, made for sipping.</span><span class=\"gc-card-m\">Discover &rarr;</span></div></a><a class=\"gc-card\" href=\"__BASEURL__/en/shop/category/tropical-0/\"><div class=\"gc-art\"><img src=\"__BASEURL__/assets/images/categorie/tropicali-0.jpg\" alt=\"Tropical 0%\" loading=\"lazy\" style=\"width:100%;height:100%;object-fit:cover\"></div><div class=\"gc-card-b\"><span class=\"gc-card-t\">Tropical 0%</span><span class=\"gc-card-d\">Daiquiri, Pi&#241;a Colada, Margarita, Bloody Mary: fruit and holiday in every sip.</span><span class=\"gc-card-m\">Discover &rarr;</span></div></a><a class=\"gc-card\" href=\"__BASEURL__/en/shop/category/spirits-0/\"><div class=\"gc-art\"><img src=\"__BASEURL__/assets/images/categorie/distillati-0.jpg\" alt=\"Spirits 0%\" loading=\"lazy\" style=\"width:100%;height:100%;object-fit:cover\"></div><div class=\"gc-card-b\"><span class=\"gc-card-t\">Spirits 0%</span><span class=\"gc-card-d\">Gin, vermouth, rum, tequila, whiskey: the great spirits of mixology, reinvented at 0%.</span><span class=\"gc-card-m\">Discover &rarr;</span></div></a></div></div></section></div>"
+  },
+  {
+    "id": "filosofia",
+    "nome": "Philosophy",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"filosofia\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Our philosophy</p><h2 class=\"gc-h2\">Italian excellence, without a drop of alcohol</h2><p class=\"gc-lead\">For us the aperitivo is a ritual, and a ritual is perfected in the details. We start from the Italian tradition of drinking well and reinterpret it with the care of people who think through every recipe one by one, so that every bottle is worth the moment you open it.</p><div class=\"gc-plat\"><div class=\"gc-pl\"><b>Italian taste</b><p>We start from the classics Italy made famous (Negroni, Americano, Spritz) and look for their soul: the bitter, the citrus, the botanical. We don&#39;t imitate a drink, we chase its character.</p></div><div class=\"gc-pl\"><b>Care in the details</b><p>The right glass, plenty of ice, a garnish that completes without covering. The quality of an aperitivo lies in what you notice and in what you don&#39;t.</p></div><div class=\"gc-pl\"><b>No compromise</b><p>Our goal is just one: that you never miss the original. That is why we choose balance over shortcuts.</p></div></div><p style=\"margin-top:1.6rem\"><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/en/philosophy/\">Discover our philosophy</a></p></div></section></div>"
+  },
+  {
+    "id": "perche",
+    "nome": "Why Spirito Libero",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"perche\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Why Spirito Libero</p><h2 class=\"gc-h2\">The taste of aperitivo, without the alcohol</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><b>0% alcohol, 100% flavour</b><p>Recipes designed so you never miss the original: the same complexity, the same ritual, without a drop of alcohol.</p></div><div class=\"gc-pl\"><b>Ready to pour</b><p>No shaker, no doses to remember. Perfect neat over ice, or as a base for your own recipe: freedom is in the name.</p></div><div class=\"gc-pl\"><b>1L bottle</b><p>One size, built to last: perfect for the everyday aperitivo or an evening with friends.</p></div></div></div></section></div>"
+  },
+  {
+    "id": "come",
+    "nome": "How to enjoy",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"come\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">How to enjoy it</p><h2 class=\"gc-h2\">Ready in three moves</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Fill with ice</b><p>A wide glass and plenty of ice: the secret of an aperitivo that stays fresh to the last sip.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Pour and top up</b><p>Pour your 0% recipe and top up to taste with soda or tonic. No shaker, no measuring.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Garnish and toast</b><p>A slice of citrus or a sprig of fresh herb completes the aroma. The ritual is served.</p></div></div><p style=\"margin-top:1.6rem\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/en/shop/\">Choose your recipe</a></p></div></section></div>"
+  },
+  {
+    "id": "blog",
+    "nome": "Blog",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"blog\"><div class=\"gc-wrap gc-2c\"><div><p class=\"gc-eyebrow\">From the blog</p><h2 class=\"gc-h2\">Guides and mocktail recipes</h2><p class=\"gc-lead\">How to serve the 0% aperitivo, pairings, recipes and trends: everything you need to know.</p><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/en/blog/\">Go to the blog</a></div><div class=\"gc-pl\"><span class=\"n\">LATEST ARTICLE</span><b>Recipe: Creamy Non-Alcoholic Pi&#241;a Colada with pineapple and coconut</b><p>How to make creamy and tropical non-alcoholic pina colada: exact doses of pineapple, coconut milk and lime, blender technique and tricks for the perfect texture.</p></div></div></section></div>"
+  },
+  {
+    "id": "cta",
+    "nome": "Call to action",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"cta\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Ready for your 0% aperitivo?</h2><p class=\"gc-lead\">40 recipes, one size, one price. Pick yours and bring it to the table tonight.</p><a class=\"gc-btn\" href=\"__BASEURL__/en/shop/\">Discover the Shop &rarr;</a></div></section></div>"
+  }
+]

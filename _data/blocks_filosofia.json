@@ -1,0 +1,26 @@
+[
+  {
+    "id": "intro",
+    "nome": "Intro",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"intro\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">La nostra filosofia</p><h2 class=\"gc-h2\">Il rito prima di tutto</h2><p class=\"gc-lead\">L&#39;Italia ha insegnato al mondo che l&#39;aperitivo non &#232; una bevanda: &#232; un momento. Si sceglie il bicchiere, si aspetta che il ghiaccio faccia il suo lavoro, si brinda. Spirito Libero esiste per custodire questo rito per chi, quella sera, sceglie di non bere alcol, senza che il bicchiere debba sentirsi secondo.</p></div></section></div>"
+  },
+  {
+    "id": "principi",
+    "nome": "Principi",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><div class=\"gc-plat\"><div class=\"gc-pl\"><b>Gusto italiano</b><p>Partiamo dai classici che l&#39;Italia ha reso famosi (Negroni, Americano, Spritz) e ne cerchiamo l&#39;anima: l&#39;amaro, l&#39;agrume, il botanico. Non imitiamo una bevanda, ne inseguiamo il carattere.</p></div><div class=\"gc-pl\"><b>Cura nei dettagli</b><p>Il bicchiere giusto, il ghiaccio abbondante, la guarnizione che completa senza coprire. Lavoriamo ogni ricetta come se dovesse stare al bancone di un buon bar.</p></div><div class=\"gc-pl\"><b>Libert&#224; di scelta</b><p>Zero alcol non vuol dire zero personalit&#224;. Lo bevi liscio su ghiaccio o lo usi come base per la tua ricetta: decidi tu, la libert&#224; &#232; nel nome.</p></div></div></div></section></div>"
+  },
+  {
+    "id": "manifesto",
+    "nome": "Manifesto",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"manifesto\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Non un ripiego. Una scelta.</h2><p class=\"gc-lead\">Quaranta ricette, un solo formato, un solo prezzo: 9,90 euro per 1 litro. Niente da calcolare, niente da rimpiangere: l&#39;unica difficolt&#224; &#232; decidere quale aprire stasera.</p><a class=\"gc-btn\" href=\"__BASEURL__/negozio/\">Assaggia la differenza</a></div></section></div>"
+  },
+  {
+    "id": "cta",
+    "nome": "Links",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"cta\"><div class=\"gc-wrap\"><p><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/negozio/\">Scopri le ricette</a> &nbsp; <a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/blog/\">Leggi le guide</a></p></div></section></div>"
+  }
+]
