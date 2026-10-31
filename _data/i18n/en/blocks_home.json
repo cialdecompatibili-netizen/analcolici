@@ -9,7 +9,7 @@
     "id": "numeri",
     "nome": "Numbers",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"numeri\"><div class=\"gc-wrap\"><div class=\"ent-stats ent-4\"><div><b>0%</b><span>Alcohol</span></div><div><b>40</b><span>Recipes</span></div><div><b>1L</b><span>Single size</span></div><div><b>&#8364;9.90</b><span>Price per bottle</span></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"numeri\"><div class=\"gc-wrap\"><div class=\"ent-stats ent-4\"><div><b>0%</b><span>Alcohol</span></div><div><b>46</b><span>Recipes</span></div><div><b>1L</b><span>Single size</span></div><div><b>&#8364;9.90</b><span>Price per bottle</span></div></div></div></section></div>"
   },
   {
     "id": "collezioni",
@@ -45,6 +45,6 @@
     "id": "cta",
     "nome": "Call to action",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"cta\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Ready for your 0% aperitivo?</h2><p class=\"gc-lead\">40 recipes, one size, one price. Pick yours and bring it to the table tonight.</p><a class=\"gc-btn\" href=\"__BASEURL__/en/shop/\">Discover the Shop &rarr;</a></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"cta\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Ready for your 0% aperitivo?</h2><p class=\"gc-lead\">46 recipes, one size, one price. Pick yours and bring it to the table tonight.</p><a class=\"gc-btn\" href=\"__BASEURL__/en/shop/\">Discover the Shop &rarr;</a></div></section></div>"
   }
 ]

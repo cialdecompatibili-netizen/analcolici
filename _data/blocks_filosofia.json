@@ -15,7 +15,7 @@
     "id": "manifesto",
     "nome": "Manifesto",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"manifesto\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Non un ripiego. Una scelta.</h2><p class=\"gc-lead\">Quaranta ricette, un solo formato, un solo prezzo: 9,90 euro per 1 litro. Niente da calcolare, niente da rimpiangere: l&#39;unica difficolt&#224; &#232; decidere quale aprire stasera.</p><a class=\"gc-btn\" href=\"__BASEURL__/negozio/\">Assaggia la differenza</a></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"manifesto\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Non un ripiego. Una scelta.</h2><p class=\"gc-lead\">Quarantasei ricette, un solo formato, un solo prezzo: 9,90 euro per 1 litro. Niente da calcolare, niente da rimpiangere: l&#39;unica difficolt&#224; &#232; decidere quale aprire stasera.</p><a class=\"gc-btn\" href=\"__BASEURL__/negozio/\">Assaggia la differenza</a></div></section></div>"
   },
   {
     "id": "cta",
