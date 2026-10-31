@@ -91,3 +91,10 @@ Lezioni dalla migrazione "pelletteria" -> "pelletteria2" (24/10/2026)
 - Nomi EN delle categorie: _data/i18n/en/categorie.json (stesso ordine di _data/categorie.json).
 - Liste: _includes/lista-categoria.html (blog e categorie), link categoria: _includes/page__taxonomy.html, barra laterale: post-sidebar.html.
 - Gli articoli `2026-10-26-*-prova` / `*-test` sono di prova: cancellali (e i loro redirect/ e le categorie Guide/Novità se non servono).
+
+
+## Cose che funzionano - foto prodotti (31/10/2026)
+- Per aggiungere le foto ai prodotti senza immagine: `python C:\Users\mirco\Desktop\gemini_auto\core\foto_sito.py --repo C:\Users\mirco\Desktop\repository\analcolici` (genera con Gemini, copia in `assets/images/prodotti/<id>.webp`, aggiorna `_data/catalogo.json`, commit e push). Opzioni `--ids`, `--extra`, `--dry`: vedi `gemini_auto\CLAUDE.md`.
+- Colori del liquido per i prompt in `_data/colori_foto.json`. Foto fatte: 6 tequila 0% (el-diablo, oaxaca-old-fashioned, picante-margarita, ranch-water, tequila-sunrise, tommys-margarita), etichetta floreale con nome.
+- Le 6 schede tequila sono nella categoria Distillati: https://cialdecompatibili-netizen.github.io/analcolici/negozio/categoria/distillati-0/
+- Aggiungere nuovi prodotti: basta metterli nel catalogo con `"immagine": ""` e lanciare il comando sopra.
