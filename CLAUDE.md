@@ -1,5 +1,7 @@
 # mistraltemplate1 - guida per Claude (template Jekyll adattivo)
 
+**REPO analcolici = MIGRAZIONE IN CORSO dal sito CartaCMS analcolici3: leggi PRIMA `MIGRAZIONE.md` (stato, fasi, dove sono gli script e i dati esportati).**
+
 Template Jekyll per GitHub Pages: si clona, si cambia quasi solo `_config.yml` e il sito si adatta (lingua, URL, brand, menu, shop). Obiettivo e stato del lavoro: `PROGETTO_TEMPLATE.md`.
 
 **CREARE UN SITO DA QUESTO TEMPLATE: leggi PRIMA `docs/CLONAZIONE.md` (un comando `nuovo_sito.ps1` + `personalizza_clone.py` fanno colori, logo, sfondo home; un solo commit). Ogni automazione che impari va scritta come script in `automation/` e annotata li' (regola nella sezione 5): obiettivo meno tempo e meno commit per ogni nuovo sito.**
