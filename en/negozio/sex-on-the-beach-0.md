@@ -8,6 +8,7 @@ seo_title: "Non-Alcoholic Sex on the Beach 0%"
 seo_description: "Sex on the Beach 0%: Peach, orange and cranberry: sweet, fruity and colorful, now 0%."
 lang: en
 locale: en
+seo_image: /assets/images/prodotti/sex-on-the-beach-0.webp
 ref: shop-prod-sex-on-the-beach-0
 tr: tradotto
 ---
