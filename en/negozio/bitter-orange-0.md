@@ -8,6 +8,7 @@ seo_title: "Non-Alcoholic Bitter Orange 0%"
 seo_description: "Bitter Orange 0%: Bitter and orange juice: bittersweet, colorful, perfect before dinner, now 0%."
 lang: en
 locale: en
+seo_image: /assets/images/prodotti/bitter-orange-0.webp
 ref: shop-prod-bitter-orange-0
 tr: tradotto
 ---

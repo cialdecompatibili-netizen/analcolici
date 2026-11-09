@@ -6,5 +6,6 @@ permalink: /negozio/caipiroska-0/
 description: "Caipiroska 0%: Lime pestato, zucchero e vodka 0%: la variante fresca e secca, ora 0%."
 seo_title: "Caipiroska 0% Analcolico"
 seo_description: "Caipiroska 0%: Lime pestato, zucchero e vodka 0%: la variante fresca e secca, ora 0%."
+seo_image: /assets/images/prodotti/caipiroska-0.webp
 ref: shop-prod-caipiroska-0
 ---

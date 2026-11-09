@@ -8,6 +8,7 @@ seo_title: "Non-Alcoholic Tiramisù Martini 0%"
 seo_description: "Tiramisù Martini 0%: Coffee, mascarpone and cocoa in a glass: the Italian dessert as a cocktail, 0%."
 lang: en
 locale: en
+seo_image: /assets/images/prodotti/tiramisu-martini-0.webp
 ref: shop-prod-tiramisu-martini-0
 tr: tradotto
 ---

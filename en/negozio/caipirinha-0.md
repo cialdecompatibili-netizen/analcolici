@@ -8,6 +8,7 @@ seo_title: "Non-Alcoholic Caipirinha 0%"
 seo_description: "Caipirinha 0%: Muddled lime, cane sugar and cachaça 0%: the Brazilian cocktail, now 0%."
 lang: en
 locale: en
+seo_image: /assets/images/prodotti/caipirinha-0.webp
 ref: shop-prod-caipirinha-0
 tr: tradotto
 ---

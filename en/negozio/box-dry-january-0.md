@@ -8,6 +8,7 @@ seo_title: "Non-Alcoholic Box Dry January 0%"
 seo_description: "Box Dry January 0%: A month without alcohol in style: 6 different 0% cocktails to try, with recipe cards."
 lang: en
 locale: en
+seo_image: /assets/images/prodotti/box-dry-january-0.webp
 ref: shop-prod-box-dry-january-0
 tr: tradotto
 ---

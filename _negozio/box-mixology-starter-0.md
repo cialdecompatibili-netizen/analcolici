@@ -6,5 +6,6 @@ permalink: /negozio/box-mixology-starter-0/
 description: "Box Mixology Starter 0%: Il kit per iniziare a miscelare analcolici: 3 distillati 0%, tonic e guida ai cocktail."
 seo_title: "Box Mixology Starter 0% Analcolico"
 seo_description: "Box Mixology Starter 0%: Il kit per iniziare a miscelare analcolici: 3 distillati 0%, tonic e guida ai cocktail."
+seo_image: /assets/images/prodotti/box-mixology-starter-0.webp
 ref: shop-prod-box-mixology-starter-0
 ---

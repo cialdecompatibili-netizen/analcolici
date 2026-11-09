@@ -8,6 +8,7 @@ seo_title: "Non-Alcoholic Kir Royale 0%"
 seo_description: "Kir Royale 0%: Sparkling wine and crème de cassis: elegant and fruity, now alcohol-free."
 lang: en
 locale: en
+seo_image: /assets/images/prodotti/kir-royale-0.webp
 ref: shop-prod-kir-royale-0
 tr: tradotto
 ---

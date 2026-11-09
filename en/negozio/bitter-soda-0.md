@@ -8,6 +8,7 @@ seo_title: "Non-Alcoholic Bitter Soda 0%"
 seo_description: "Bitter Soda 0%: Red bitter and ice-cold soda: the simplest Italian bar aperitivo, now 0%."
 lang: en
 locale: en
+seo_image: /assets/images/prodotti/bitter-soda-0.webp
 ref: shop-prod-bitter-soda-0
 tr: tradotto
 ---

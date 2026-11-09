@@ -71,7 +71,7 @@
       "nome": "Bollicine 0%",
       "icona": "🍾",
       "descrizione": "Spumante, Prosecco e cocktail con le bollicine senza alcol: Bellini, Rossini, Mimosa e brindisi 0%.",
-      "immagine": "",
+      "immagine": "assets/images/categorie/bollicine-0.webp",
       "tr": {
         "en": {
           "nome": "Sparkling 0%",
@@ -84,7 +84,7 @@
       "nome": "Box regalo 0%",
       "icona": "🎁",
       "descrizione": "Confezioni regalo di cocktail e bollicine analcolici: l'idea giusta per Natale, compleanni e Dry January.",
-      "immagine": "",
+      "immagine": "assets/images/categorie/box-regalo-0.webp",
       "tr": {
         "en": {
           "nome": "Gift boxes 0%",
@@ -97,7 +97,7 @@
       "nome": "Martini e dessert 0%",
       "icona": "🍰",
       "descrizione": "Pornstar Martini, French Martini, Cosmopolitan e cocktail da dessert senza alcol, cremosi e fruttati.",
-      "immagine": "",
+      "immagine": "assets/images/categorie/martini-dessert-0.webp",
       "tr": {
         "en": {
           "nome": "Martinis and desserts 0%",
@@ -1189,7 +1189,7 @@
       "prezzo_centesimi": 1190,
       "descrizione": "Perlage fine e note di mela verde e agrumi: la bollicina italiana per eccellenza, senza alcol.",
       "descrizione_completa": "Perlage fine e note di mela verde e agrumi: la bollicina italiana per eccellenza, senza alcol.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/prosecco-brut-0.webp",
       "icona": "🍾",
       "visibile": true,
       "tr": {
@@ -1207,7 +1207,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Aromatico e fruttato, in stile moscato: per brindisi e dessert di Capodanno, senza alcol.",
       "descrizione_completa": "Aromatico e fruttato, in stile moscato: per brindisi e dessert di Capodanno, senza alcol.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/spumante-dolce-0.webp",
       "icona": "🍾",
       "visibile": true,
       "tr": {
@@ -1226,7 +1226,7 @@
       "prezzo_centesimi": 1190,
       "descrizione": "Profumo di fragola e lampone, fresco e vivace: perfetto per l'aperitivo, senza alcol.",
       "descrizione_completa": "Profumo di fragola e lampone, fresco e vivace: perfetto per l'aperitivo, senza alcol.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/spumante-rose-0.webp",
       "icona": "🍾",
       "visibile": true,
       "tr": {
@@ -1245,7 +1245,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Spumante e purea di pesca bianca: il cocktail veneziano del Harry's Bar, ora 0%.",
       "descrizione_completa": "Spumante e purea di pesca bianca: il cocktail veneziano del Harry's Bar, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/bellini-0.webp",
       "icona": "🍾",
       "visibile": true,
       "tr": {
@@ -1263,7 +1263,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Spumante e fragole fresche frullate: il cugino rosso del Bellini, ora 0%.",
       "descrizione_completa": "Spumante e fragole fresche frullate: il cugino rosso del Bellini, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/rossini-0.webp",
       "icona": "🍾",
       "visibile": true,
       "tr": {
@@ -1281,7 +1281,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Spumante e succo d'arancia spremuto: il cocktail del brunch, ora 0%.",
       "descrizione_completa": "Spumante e succo d'arancia spremuto: il cocktail del brunch, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/mimosa-0.webp",
       "icona": "🍾",
       "visibile": true,
       "tr": {
@@ -1299,7 +1299,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Spumante e crème de cassis: elegante e fruttato, ora senza alcol.",
       "descrizione_completa": "Spumante e crème de cassis: elegante e fruttato, ora senza alcol.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/kir-royale-0.webp",
       "icona": "🍾",
       "visibile": true,
       "tr": {
@@ -1317,7 +1317,7 @@
       "prezzo_centesimi": 3490,
       "descrizione": "Il necessario per l'Espresso Martini 0% a casa: base 0%, crema al caffè 0% e ricetta, in confezione regalo.",
       "descrizione_completa": "Il necessario per l'Espresso Martini 0% a casa: base 0%, crema al caffè 0% e ricetta, in confezione regalo.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/box-espresso-martini-0.webp",
       "icona": "🎁",
       "visibile": true,
       "tr": {
@@ -1336,7 +1336,7 @@
       "prezzo_centesimi": 3990,
       "descrizione": "Per 6 persone: aperitivo 0%, spumante 0% e soda in confezione regalo.",
       "descrizione_completa": "Per 6 persone: aperitivo 0%, spumante 0% e soda in confezione regalo.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/box-spritz-party-0.webp",
       "icona": "🎁",
       "visibile": true,
       "tr": {
@@ -1355,7 +1355,7 @@
       "prezzo_centesimi": 3490,
       "descrizione": "Spritz, Americano e Bitter Soda 0% in una scatola: l'aperitivo italiano da regalare.",
       "descrizione_completa": "Spritz, Americano e Bitter Soda 0% in una scatola: l'aperitivo italiano da regalare.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/box-aperitivo-italiano-0.webp",
       "icona": "🎁",
       "visibile": true,
       "tr": {
@@ -1374,7 +1374,7 @@
       "prezzo_centesimi": 4490,
       "descrizione": "Un mese senza alcol con stile: 6 cocktail 0% diversi da provare, con le schede ricetta.",
       "descrizione_completa": "Un mese senza alcol con stile: 6 cocktail 0% diversi da provare, con le schede ricetta.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/box-dry-january-0.webp",
       "icona": "🎁",
       "visibile": true,
       "tr": {
@@ -1392,7 +1392,7 @@
       "prezzo_centesimi": 4990,
       "descrizione": "Spumante 0%, Bellini 0% e Vin Brulé 0% in una confezione natalizia.",
       "descrizione_completa": "Spumante 0%, Bellini 0% e Vin Brulé 0% in una confezione natalizia.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/box-natale-bollicine-0.webp",
       "icona": "🎁",
       "visibile": true,
       "tr": {
@@ -1411,7 +1411,7 @@
       "prezzo_centesimi": 5490,
       "descrizione": "Il kit per iniziare a miscelare analcolici: 3 distillati 0%, tonic e guida ai cocktail.",
       "descrizione_completa": "Il kit per iniziare a miscelare analcolici: 3 distillati 0%, tonic e guida ai cocktail.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/box-mixology-starter-0.webp",
       "icona": "🎁",
       "visibile": true,
       "tr": {
@@ -1429,7 +1429,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Frutto della passione, vaniglia e bollicine: uno dei cocktail più cercati online, ora 0%.",
       "descrizione_completa": "Frutto della passione, vaniglia e bollicine: uno dei cocktail più cercati online, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/pornstar-martini-0.webp",
       "icona": "🍰",
       "visibile": true,
       "tr": {
@@ -1447,7 +1447,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Ananas e lampone con un tocco di vaniglia: fruttato e vellutato, ora 0%.",
       "descrizione_completa": "Ananas e lampone con un tocco di vaniglia: fruttato e vellutato, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/french-martini-0.webp",
       "icona": "🍰",
       "visibile": true,
       "tr": {
@@ -1465,7 +1465,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Mirtillo rosso, lime e arancia: il cocktail rosa icona degli anni Novanta, ora 0%.",
       "descrizione_completa": "Mirtillo rosso, lime e arancia: il cocktail rosa icona degli anni Novanta, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/cosmopolitan-0.webp",
       "icona": "🍰",
       "visibile": true,
       "tr": {
@@ -1483,7 +1483,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Litchi, lime e un velo di rosa: delicato e profumato, ora 0%.",
       "descrizione_completa": "Litchi, lime e un velo di rosa: delicato e profumato, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/lychee-martini-0.webp",
       "icona": "🍰",
       "visibile": true,
       "tr": {
@@ -1501,7 +1501,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Caffè, mascarpone e cacao in un bicchiere: il dessert italiano in forma di cocktail, 0%.",
       "descrizione_completa": "Caffè, mascarpone e cacao in un bicchiere: il dessert italiano in forma di cocktail, 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/tiramisu-martini-0.webp",
       "icona": "🍰",
       "visibile": true,
       "tr": {
@@ -1519,7 +1519,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Caffè, crema e ghiaccio: il classico cremoso da fine serata, ora 0%.",
       "descrizione_completa": "Caffè, crema e ghiaccio: il classico cremoso da fine serata, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/white-russian-0.webp",
       "icona": "🍰",
       "visibile": true,
       "tr": {
@@ -1537,7 +1537,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Bitter, vermouth rosso e spumante: lo sbaglio più famoso di Milano, ora 0%.",
       "descrizione_completa": "Bitter, vermouth rosso e spumante: lo sbaglio più famoso di Milano, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/negroni-sbagliato-0.webp",
       "icona": "🍸",
       "visibile": true,
       "tr": {
@@ -1555,7 +1555,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Bitter rosso e soda ghiacciata: l'aperitivo da bar italiano più semplice, ora 0%.",
       "descrizione_completa": "Bitter rosso e soda ghiacciata: l'aperitivo da bar italiano più semplice, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/bitter-soda-0.webp",
       "icona": "🍸",
       "visibile": true,
       "tr": {
@@ -1573,7 +1573,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Limoncello 0%, spumante e soda: fresco e agrumato, lo spritz del sud Italia.",
       "descrizione_completa": "Limoncello 0%, spumante e soda: fresco e agrumato, lo spritz del sud Italia.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/limoncello-spritz-0.webp",
       "icona": "🍸",
       "visibile": true,
       "tr": {
@@ -1591,7 +1591,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Vermouth bianco, spumante e soda con fetta di limone: lo spritz chiaro e leggero, ora 0%.",
       "descrizione_completa": "Vermouth bianco, spumante e soda con fetta di limone: lo spritz chiaro e leggero, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/spritz-bianco-0.webp",
       "icona": "🍸",
       "visibile": true,
       "tr": {
@@ -1610,7 +1610,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Bitter e succo d'arancia: dolce-amaro, colorato, perfetto prima di cena, ora 0%.",
       "descrizione_completa": "Bitter e succo d'arancia: dolce-amaro, colorato, perfetto prima di cena, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/bitter-orange-0.webp",
       "icona": "🍸",
       "visibile": true,
       "tr": {
@@ -1628,7 +1628,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Whisky 0%, limone e zucchero con schiuma vellutata: il sour più amato, ora 0%.",
       "descrizione_completa": "Whisky 0%, limone e zucchero con schiuma vellutata: il sour più amato, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/whisky-sour-0.webp",
       "icona": "🥃",
       "visibile": true,
       "tr": {
@@ -1646,7 +1646,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Whisky 0%, bitter e vermouth rosso: il cugino scuro del Negroni, ora 0%.",
       "descrizione_completa": "Whisky 0%, bitter e vermouth rosso: il cugino scuro del Negroni, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/boulevardier-0.webp",
       "icona": "🥃",
       "visibile": true,
       "tr": {
@@ -1664,7 +1664,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Rye 0%, zucchero, bitter e scorza di limone: il cocktail storico di New Orleans, ora 0%.",
       "descrizione_completa": "Rye 0%, zucchero, bitter e scorza di limone: il cocktail storico di New Orleans, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/sazerac-0.webp",
       "icona": "🥃",
       "visibile": true,
       "tr": {
@@ -1682,7 +1682,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Gin 0% e lime: secco, pulito e tagliente, ora 0%.",
       "descrizione_completa": "Gin 0% e lime: secco, pulito e tagliente, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/gimlet-0.webp",
       "icona": "🥃",
       "visibile": true,
       "tr": {
@@ -1700,7 +1700,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Gin 0% e vermouth secco con oliva o limone: il Martini classico, ora 0%.",
       "descrizione_completa": "Gin 0% e vermouth secco con oliva o limone: il Martini classico, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/gin-martini-dry-0.webp",
       "icona": "🥃",
       "visibile": true,
       "tr": {
@@ -1718,7 +1718,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Lime pestato, zucchero di canna e cachaça 0%: il cocktail brasiliano, ora 0%.",
       "descrizione_completa": "Lime pestato, zucchero di canna e cachaça 0%: il cocktail brasiliano, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/caipirinha-0.webp",
       "icona": "🍌",
       "visibile": true,
       "tr": {
@@ -1736,7 +1736,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Lime pestato, zucchero e vodka 0%: la variante fresca e secca, ora 0%.",
       "descrizione_completa": "Lime pestato, zucchero e vodka 0%: la variante fresca e secca, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/caipiroska-0.webp",
       "icona": "🍌",
       "visibile": true,
       "tr": {

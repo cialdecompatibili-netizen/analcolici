@@ -8,6 +8,7 @@ seo_title: "Non-Alcoholic Lychee Martini 0%"
 seo_description: "Lychee Martini 0%: Lychee, lime and a hint of rose: delicate and fragrant, now 0%."
 lang: en
 locale: en
+seo_image: /assets/images/prodotti/lychee-martini-0.webp
 ref: shop-prod-lychee-martini-0
 tr: tradotto
 ---

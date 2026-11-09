@@ -6,5 +6,6 @@ permalink: /negozio/spumante-rose-0/
 description: "Spumante Rosé 0%: Profumo di fragola e lampone, fresco e vivace: perfetto per l'aperitivo, senza alcol."
 seo_title: "Spumante Rosé 0% Analcolico"
 seo_description: "Spumante Rosé 0%: Profumo di fragola e lampone, fresco e vivace: perfetto per l'aperitivo, senza alcol."
+seo_image: /assets/images/prodotti/spumante-rose-0.webp
 ref: shop-prod-spumante-rose-0
 ---

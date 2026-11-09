@@ -8,6 +8,7 @@ seo_title: "Non-Alcoholic White Spritz 0%"
 seo_description: "White Spritz 0%: White vermouth, sparkling wine and soda with a lemon slice: the light, pale spritz, now 0%."
 lang: en
 locale: en
+seo_image: /assets/images/prodotti/spritz-bianco-0.webp
 ref: shop-prod-spritz-bianco-0
 tr: tradotto
 ---

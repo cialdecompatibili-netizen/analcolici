@@ -6,5 +6,6 @@ permalink: /negozio/bitter-soda-0/
 description: "Bitter Soda 0%: Bitter rosso e soda ghiacciata: l'aperitivo da bar italiano più semplice, ora 0%."
 seo_title: "Bitter Soda 0% Analcolico"
 seo_description: "Bitter Soda 0%: Bitter rosso e soda ghiacciata: l'aperitivo da bar italiano più semplice, ora 0%."
+seo_image: /assets/images/prodotti/bitter-soda-0.webp
 ref: shop-prod-bitter-soda-0
 ---

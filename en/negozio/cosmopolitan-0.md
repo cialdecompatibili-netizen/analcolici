@@ -8,6 +8,7 @@ seo_title: "Non-Alcoholic Cosmopolitan 0%"
 seo_description: "Cosmopolitan 0%: Cranberry, lime and orange: the iconic pink cocktail of the nineties, now 0%."
 lang: en
 locale: en
+seo_image: /assets/images/prodotti/cosmopolitan-0.webp
 ref: shop-prod-cosmopolitan-0
 tr: tradotto
 ---

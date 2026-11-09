@@ -8,6 +8,7 @@ seo_title: "Non-Alcoholic Gin Martini Dry 0%"
 seo_description: "Gin Martini Dry 0%: Gin 0% and dry vermouth with olive or lemon: the classic Martini, now 0%."
 lang: en
 locale: en
+seo_image: /assets/images/prodotti/gin-martini-dry-0.webp
 ref: shop-prod-gin-martini-dry-0
 tr: tradotto
 ---
