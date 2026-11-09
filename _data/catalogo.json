@@ -52,6 +52,19 @@
           "descrizione": "The great spirits of international mixology, reinvented at 0%: gin, vermouth, rum, tequila, whiskey. The same aromatic complexity, without a drop of alcohol."
         }
       }
+    },
+    {
+      "id": "liquori-0",
+      "nome": "Liquori 0%",
+      "icona": "🍷",
+      "descrizione": "Liquori analcolici 0%: amaretto, limoncello, amaro, sambuca, nocino e mirto. I grandi classici italiani da fine pasto, senza alcol.",
+      "immagine": "assets/images/categorie/liquori-0.webp",
+      "tr": {
+        "en": {
+          "nome": "Liqueurs 0%",
+          "descrizione": "Non-alcoholic liqueurs at 0%: amaretto, limoncello, amaro, sambuca, nocino and mirto. The great Italian after-dinner classics, alcohol-free."
+        }
+      }
     }
   ],
   "prodotti": [
@@ -916,6 +929,190 @@
         "en": {
           "descrizione": "Tequila, fresh watermelon and lime: the most viral summer twist on social media, at 0%.",
           "descrizione_completa": "Tequila, fresh watermelon and lime: the most viral summer twist on social media, at 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "amaretto-0",
+      "nome": "Amaretto 0%",
+      "categoria": "liquori-0",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Dolce e avvolgente, con mandorle amare e nocciolo di albicocca: il classico da fine pasto, senza alcol.",
+      "descrizione_completa": "Dolce e avvolgente, con mandorle amare e nocciolo di albicocca: il classico da fine pasto, senza alcol.",
+      "immagine": "assets/images/prodotti/amaretto-0.webp",
+      "icona": "🍷",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Sweet and rounded, with bitter almonds and apricot kernel: the classic after-dinner liqueur, alcohol-free.",
+          "descrizione_completa": "Sweet and rounded, with bitter almonds and apricot kernel: the classic after-dinner liqueur, alcohol-free."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "limoncello-0",
+      "nome": "Limoncello 0%",
+      "categoria": "liquori-0",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Scorze di limone in infusione, fresco e zuccherino. Da servire ghiacciato, come da tradizione.",
+      "descrizione_completa": "Scorze di limone in infusione, fresco e zuccherino. Da servire ghiacciato, come da tradizione.",
+      "immagine": "assets/images/prodotti/limoncello-0.webp",
+      "icona": "🍷",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Infused lemon zest, fresh and lightly sweet. Serve ice-cold, as tradition wants.",
+          "descrizione_completa": "Infused lemon zest, fresh and lightly sweet. Serve ice-cold, as tradition wants."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "amaro-erbe-0",
+      "nome": "Amaro alle Erbe 0%",
+      "categoria": "liquori-0",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Genziana, rabarbaro ed erbe officinali: il bitter-dolce da digestivo, con tutto il carattere dell'amaro e nessun alcol.",
+      "descrizione_completa": "Genziana, rabarbaro ed erbe officinali: il bitter-dolce da digestivo, con tutto il carattere dell'amaro e nessun alcol.",
+      "immagine": "assets/images/prodotti/amaro-erbe-0.webp",
+      "icona": "🍷",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Gentian, rhubarb and medicinal herbs: the bittersweet digestif, with all the character of an amaro and no alcohol.",
+          "descrizione_completa": "Gentian, rhubarb and medicinal herbs: the bittersweet digestif, with all the character of an amaro and no alcohol.",
+          "nome": "Herbal Amaro 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "sambuca-0",
+      "nome": "Sambuca 0%",
+      "categoria": "liquori-0",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Anice stellato e finocchietto: dolce, balsamica e inconfondibile. Perfetta liscia o con il caffè.",
+      "descrizione_completa": "Anice stellato e finocchietto: dolce, balsamica e inconfondibile. Perfetta liscia o con il caffè.",
+      "immagine": "assets/images/prodotti/sambuca-0.webp",
+      "icona": "🍷",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Star anise and fennel: sweet, balsamic and unmistakable. Perfect neat or with coffee.",
+          "descrizione_completa": "Star anise and fennel: sweet, balsamic and unmistakable. Perfect neat or with coffee."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "crema-caffe-0",
+      "nome": "Crema al Caffè 0%",
+      "categoria": "liquori-0",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Espresso e crema vellutata: ideale sul gelato, nei dessert e nei cocktail da fine serata.",
+      "descrizione_completa": "Espresso e crema vellutata: ideale sul gelato, nei dessert e nei cocktail da fine serata.",
+      "immagine": "assets/images/prodotti/crema-caffe-0.webp",
+      "icona": "🍷",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Espresso and velvety cream: ideal over ice cream, in desserts and in late-night cocktails.",
+          "descrizione_completa": "Espresso and velvety cream: ideal over ice cream, in desserts and in late-night cocktails.",
+          "nome": "Coffee Cream Liqueur 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "irish-cream-style-0",
+      "nome": "Irish Cream Style 0%",
+      "categoria": "liquori-0",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Crema, cacao e vaniglia in stile liquore irlandese: morbida, cremosa, da bere con ghiaccio o nel caffè.",
+      "descrizione_completa": "Crema, cacao e vaniglia in stile liquore irlandese: morbida, cremosa, da bere con ghiaccio o nel caffè.",
+      "immagine": "assets/images/prodotti/irish-cream-style-0.webp",
+      "icona": "🍷",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Cream, cocoa and vanilla in the Irish liqueur style: soft, creamy, to sip over ice or in coffee.",
+          "descrizione_completa": "Cream, cocoa and vanilla in the Irish liqueur style: soft, creamy, to sip over ice or in coffee."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "triple-sec-0",
+      "nome": "Triple Sec Arancia 0%",
+      "categoria": "liquori-0",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Scorze di arancia amara e dolce: la base dei grandi cocktail agli agrumi, Margarita e Cosmopolitan inclusi.",
+      "descrizione_completa": "Scorze di arancia amara e dolce: la base dei grandi cocktail agli agrumi, Margarita e Cosmopolitan inclusi.",
+      "immagine": "assets/images/prodotti/triple-sec-0.webp",
+      "icona": "🍷",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Bitter and sweet orange peel: the base of the great citrus cocktails, Margarita and Cosmopolitan included.",
+          "descrizione_completa": "Bitter and sweet orange peel: the base of the great citrus cocktails, Margarita and Cosmopolitan included.",
+          "nome": "Triple Sec Orange 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "nocino-0",
+      "nome": "Nocino 0%",
+      "categoria": "liquori-0",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Mallo di noci verdi e spezie: scuro, profondo, con note di cannella e chiodi di garofano.",
+      "descrizione_completa": "Mallo di noci verdi e spezie: scuro, profondo, con note di cannella e chiodi di garofano.",
+      "immagine": "assets/images/prodotti/nocino-0.webp",
+      "icona": "🍷",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Green walnut husk and spices: dark and deep, with notes of cinnamon and cloves.",
+          "descrizione_completa": "Green walnut husk and spices: dark and deep, with notes of cinnamon and cloves."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "mirto-0",
+      "nome": "Mirto 0%",
+      "categoria": "liquori-0",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Bacche di mirto in stile sardo: aromatico, balsamico, dal colore rosso-viola intenso.",
+      "descrizione_completa": "Bacche di mirto in stile sardo: aromatico, balsamico, dal colore rosso-viola intenso.",
+      "immagine": "assets/images/prodotti/mirto-0.webp",
+      "icona": "🍷",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Myrtle berries in the Sardinian style: aromatic, balsamic, with an intense red-purple color.",
+          "descrizione_completa": "Myrtle berries in the Sardinian style: aromatic, balsamic, with an intense red-purple color."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "liquirizia-0",
+      "nome": "Liquore alla Liquirizia 0%",
+      "categoria": "liquori-0",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Radice di liquirizia, nero e setoso, dolce-amaro: da servire freddo a fine pasto.",
+      "descrizione_completa": "Radice di liquirizia, nero e setoso, dolce-amaro: da servire freddo a fine pasto.",
+      "immagine": "assets/images/prodotti/liquirizia-0.webp",
+      "icona": "🍷",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Liquorice root, black and silky, bittersweet: serve chilled after dinner.",
+          "descrizione_completa": "Liquorice root, black and silky, bittersweet: serve chilled after dinner.",
+          "nome": "Liquorice Liqueur 0%"
         }
       }
     }
