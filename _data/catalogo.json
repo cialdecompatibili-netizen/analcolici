@@ -65,6 +65,71 @@
           "descrizione": "Non-alcoholic liqueurs at 0%: amaretto, limoncello, amaro, sambuca, nocino and mirto. The great Italian after-dinner classics, alcohol-free."
         }
       }
+    },
+    {
+      "id": "bollicine-0",
+      "nome": "Bollicine 0%",
+      "icona": "🍾",
+      "descrizione": "Spumante, Prosecco e cocktail con le bollicine senza alcol: Bellini, Rossini, Mimosa e brindisi 0%.",
+      "immagine": "",
+      "tr": {
+        "en": {
+          "nome": "Sparkling 0%",
+          "descrizione": "Alcohol-free sparkling wine, Prosecco and bubbly cocktails: Bellini, Rossini, Mimosa and 0% toasts."
+        }
+      }
+    },
+    {
+      "id": "box-regalo-0",
+      "nome": "Box regalo 0%",
+      "icona": "🎁",
+      "descrizione": "Confezioni regalo di cocktail e bollicine analcolici: l'idea giusta per Natale, compleanni e Dry January.",
+      "immagine": "",
+      "tr": {
+        "en": {
+          "nome": "Gift boxes 0%",
+          "descrizione": "Gift boxes of non-alcoholic cocktails and sparkling: the right idea for Christmas, birthdays and Dry January."
+        }
+      }
+    },
+    {
+      "id": "martini-dessert-0",
+      "nome": "Martini e dessert 0%",
+      "icona": "🍰",
+      "descrizione": "Pornstar Martini, French Martini, Cosmopolitan e cocktail da dessert senza alcol, cremosi e fruttati.",
+      "immagine": "",
+      "tr": {
+        "en": {
+          "nome": "Martinis and desserts 0%",
+          "descrizione": "Pornstar Martini, French Martini, Cosmopolitan and dessert cocktails without alcohol, creamy and fruity."
+        }
+      }
+    },
+    {
+      "id": "vino-0",
+      "nome": "Vino 0%",
+      "icona": "🍇",
+      "descrizione": "Vino rosso, bianco e rosato senza alcol, più vin brulé e sangria: il gusto del vino, senza una goccia di alcol.",
+      "immagine": "",
+      "tr": {
+        "en": {
+          "nome": "Wine 0%",
+          "descrizione": "Red, white and rosé wine without alcohol, plus mulled wine and sangria: the taste of wine, without a drop of alcohol."
+        }
+      }
+    },
+    {
+      "id": "mixer-0",
+      "nome": "Mixer e toniche",
+      "icona": "🧊",
+      "descrizione": "Toniche, ginger beer, soda e sciroppi per preparare i tuoi cocktail analcolici a casa.",
+      "immagine": "",
+      "tr": {
+        "en": {
+          "nome": "Mixers and tonics",
+          "descrizione": "Tonics, ginger beer, soda and syrups to make your non-alcoholic cocktails at home."
+        }
+      }
     }
   ],
   "prodotti": [
@@ -1113,6 +1178,957 @@
           "descrizione": "Liquorice root, black and silky, bittersweet: serve chilled after dinner.",
           "descrizione_completa": "Liquorice root, black and silky, bittersweet: serve chilled after dinner.",
           "nome": "Liquorice Liqueur 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "prosecco-brut-0",
+      "nome": "Prosecco Brut 0%",
+      "categoria": "bollicine-0",
+      "prezzo_centesimi": 1190,
+      "descrizione": "Perlage fine e note di mela verde e agrumi: la bollicina italiana per eccellenza, senza alcol.",
+      "descrizione_completa": "Perlage fine e note di mela verde e agrumi: la bollicina italiana per eccellenza, senza alcol.",
+      "immagine": "",
+      "icona": "🍾",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Fine bubbles with green apple and citrus notes: the Italian sparkling classic, alcohol-free.",
+          "descrizione_completa": "Fine bubbles with green apple and citrus notes: the Italian sparkling classic, alcohol-free."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "spumante-dolce-0",
+      "nome": "Spumante Dolce 0%",
+      "categoria": "bollicine-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Aromatico e fruttato, in stile moscato: per brindisi e dessert di Capodanno, senza alcol.",
+      "descrizione_completa": "Aromatico e fruttato, in stile moscato: per brindisi e dessert di Capodanno, senza alcol.",
+      "immagine": "",
+      "icona": "🍾",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Aromatic and fruity, Moscato style: for toasts and New Year desserts, alcohol-free.",
+          "descrizione_completa": "Aromatic and fruity, Moscato style: for toasts and New Year desserts, alcohol-free.",
+          "nome": "Sweet Sparkling 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "spumante-rose-0",
+      "nome": "Spumante Rosé 0%",
+      "categoria": "bollicine-0",
+      "prezzo_centesimi": 1190,
+      "descrizione": "Profumo di fragola e lampone, fresco e vivace: perfetto per l'aperitivo, senza alcol.",
+      "descrizione_completa": "Profumo di fragola e lampone, fresco e vivace: perfetto per l'aperitivo, senza alcol.",
+      "immagine": "",
+      "icona": "🍾",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Strawberry and raspberry aroma, fresh and lively: perfect for aperitivo, alcohol-free.",
+          "descrizione_completa": "Strawberry and raspberry aroma, fresh and lively: perfect for aperitivo, alcohol-free.",
+          "nome": "Sparkling Rosé 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "bellini-0",
+      "nome": "Bellini 0%",
+      "categoria": "bollicine-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Spumante e purea di pesca bianca: il cocktail veneziano del Harry's Bar, ora 0%.",
+      "descrizione_completa": "Spumante e purea di pesca bianca: il cocktail veneziano del Harry's Bar, ora 0%.",
+      "immagine": "",
+      "icona": "🍾",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Sparkling wine and white peach purée: the Venetian Harry's Bar cocktail, now 0%.",
+          "descrizione_completa": "Sparkling wine and white peach purée: the Venetian Harry's Bar cocktail, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "rossini-0",
+      "nome": "Rossini 0%",
+      "categoria": "bollicine-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Spumante e fragole fresche frullate: il cugino rosso del Bellini, ora 0%.",
+      "descrizione_completa": "Spumante e fragole fresche frullate: il cugino rosso del Bellini, ora 0%.",
+      "immagine": "",
+      "icona": "🍾",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Sparkling wine and blended fresh strawberries: the red cousin of the Bellini, now 0%.",
+          "descrizione_completa": "Sparkling wine and blended fresh strawberries: the red cousin of the Bellini, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "mimosa-0",
+      "nome": "Mimosa 0%",
+      "categoria": "bollicine-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Spumante e succo d'arancia spremuto: il cocktail del brunch, ora 0%.",
+      "descrizione_completa": "Spumante e succo d'arancia spremuto: il cocktail del brunch, ora 0%.",
+      "immagine": "",
+      "icona": "🍾",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Sparkling wine and fresh orange juice: the brunch cocktail, now 0%.",
+          "descrizione_completa": "Sparkling wine and fresh orange juice: the brunch cocktail, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "kir-royale-0",
+      "nome": "Kir Royale 0%",
+      "categoria": "bollicine-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Spumante e crème de cassis: elegante e fruttato, ora senza alcol.",
+      "descrizione_completa": "Spumante e crème de cassis: elegante e fruttato, ora senza alcol.",
+      "immagine": "",
+      "icona": "🍾",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Sparkling wine and crème de cassis: elegant and fruity, now alcohol-free.",
+          "descrizione_completa": "Sparkling wine and crème de cassis: elegant and fruity, now alcohol-free."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "box-espresso-martini-0",
+      "nome": "Box Espresso Martini 0%",
+      "categoria": "box-regalo-0",
+      "prezzo_centesimi": 3490,
+      "descrizione": "Il necessario per l'Espresso Martini 0% a casa: base 0%, crema al caffè 0% e ricetta, in confezione regalo.",
+      "descrizione_completa": "Il necessario per l'Espresso Martini 0% a casa: base 0%, crema al caffè 0% e ricetta, in confezione regalo.",
+      "immagine": "",
+      "icona": "🎁",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Everything for a 0% Espresso Martini at home: 0% base, coffee cream 0% and recipe card, in a gift box.",
+          "descrizione_completa": "Everything for a 0% Espresso Martini at home: 0% base, coffee cream 0% and recipe card, in a gift box.",
+          "nome": "Espresso Martini Box 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "box-spritz-party-0",
+      "nome": "Box Spritz Party 0%",
+      "categoria": "box-regalo-0",
+      "prezzo_centesimi": 3990,
+      "descrizione": "Per 6 persone: aperitivo 0%, spumante 0% e soda in confezione regalo.",
+      "descrizione_completa": "Per 6 persone: aperitivo 0%, spumante 0% e soda in confezione regalo.",
+      "immagine": "",
+      "icona": "🎁",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "For 6 people: 0% aperitif, 0% sparkling and soda in a gift box.",
+          "descrizione_completa": "For 6 people: 0% aperitif, 0% sparkling and soda in a gift box.",
+          "nome": "Spritz Party Box 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "box-aperitivo-italiano-0",
+      "nome": "Box Aperitivo Italiano 0%",
+      "categoria": "box-regalo-0",
+      "prezzo_centesimi": 3490,
+      "descrizione": "Spritz, Americano e Bitter Soda 0% in una scatola: l'aperitivo italiano da regalare.",
+      "descrizione_completa": "Spritz, Americano e Bitter Soda 0% in una scatola: l'aperitivo italiano da regalare.",
+      "immagine": "",
+      "icona": "🎁",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Spritz, Americano and Bitter Soda 0% in one box: the Italian aperitivo to give as a gift.",
+          "descrizione_completa": "Spritz, Americano and Bitter Soda 0% in one box: the Italian aperitivo to give as a gift.",
+          "nome": "Italian Aperitivo Box 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "box-dry-january-0",
+      "nome": "Box Dry January 0%",
+      "categoria": "box-regalo-0",
+      "prezzo_centesimi": 4490,
+      "descrizione": "Un mese senza alcol con stile: 6 cocktail 0% diversi da provare, con le schede ricetta.",
+      "descrizione_completa": "Un mese senza alcol con stile: 6 cocktail 0% diversi da provare, con le schede ricetta.",
+      "immagine": "",
+      "icona": "🎁",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "A month without alcohol in style: 6 different 0% cocktails to try, with recipe cards.",
+          "descrizione_completa": "A month without alcohol in style: 6 different 0% cocktails to try, with recipe cards."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "box-natale-bollicine-0",
+      "nome": "Box Natale Bollicine 0%",
+      "categoria": "box-regalo-0",
+      "prezzo_centesimi": 4990,
+      "descrizione": "Spumante 0%, Bellini 0% e Vin Brulé 0% in una confezione natalizia.",
+      "descrizione_completa": "Spumante 0%, Bellini 0% e Vin Brulé 0% in una confezione natalizia.",
+      "immagine": "",
+      "icona": "🎁",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Sparkling 0%, Bellini 0% and Mulled Wine 0% in a Christmas gift box.",
+          "descrizione_completa": "Sparkling 0%, Bellini 0% and Mulled Wine 0% in a Christmas gift box.",
+          "nome": "Christmas Sparkling Box 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "box-mixology-starter-0",
+      "nome": "Box Mixology Starter 0%",
+      "categoria": "box-regalo-0",
+      "prezzo_centesimi": 5490,
+      "descrizione": "Il kit per iniziare a miscelare analcolici: 3 distillati 0%, tonic e guida ai cocktail.",
+      "descrizione_completa": "Il kit per iniziare a miscelare analcolici: 3 distillati 0%, tonic e guida ai cocktail.",
+      "immagine": "",
+      "icona": "🎁",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "The starter kit for non-alcoholic mixology: 3 spirits 0%, tonic and a cocktail guide.",
+          "descrizione_completa": "The starter kit for non-alcoholic mixology: 3 spirits 0%, tonic and a cocktail guide."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "pornstar-martini-0",
+      "nome": "Pornstar Martini 0%",
+      "categoria": "martini-dessert-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Frutto della passione, vaniglia e bollicine: uno dei cocktail più cercati online, ora 0%.",
+      "descrizione_completa": "Frutto della passione, vaniglia e bollicine: uno dei cocktail più cercati online, ora 0%.",
+      "immagine": "",
+      "icona": "🍰",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Passion fruit, vanilla and bubbles: one of the most searched cocktails online, now 0%.",
+          "descrizione_completa": "Passion fruit, vanilla and bubbles: one of the most searched cocktails online, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "french-martini-0",
+      "nome": "French Martini 0%",
+      "categoria": "martini-dessert-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Ananas e lampone con un tocco di vaniglia: fruttato e vellutato, ora 0%.",
+      "descrizione_completa": "Ananas e lampone con un tocco di vaniglia: fruttato e vellutato, ora 0%.",
+      "immagine": "",
+      "icona": "🍰",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Pineapple and raspberry with a touch of vanilla: fruity and velvety, now 0%.",
+          "descrizione_completa": "Pineapple and raspberry with a touch of vanilla: fruity and velvety, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "cosmopolitan-0",
+      "nome": "Cosmopolitan 0%",
+      "categoria": "martini-dessert-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Mirtillo rosso, lime e arancia: il cocktail rosa icona degli anni Novanta, ora 0%.",
+      "descrizione_completa": "Mirtillo rosso, lime e arancia: il cocktail rosa icona degli anni Novanta, ora 0%.",
+      "immagine": "",
+      "icona": "🍰",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Cranberry, lime and orange: the iconic pink cocktail of the nineties, now 0%.",
+          "descrizione_completa": "Cranberry, lime and orange: the iconic pink cocktail of the nineties, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "lychee-martini-0",
+      "nome": "Lychee Martini 0%",
+      "categoria": "martini-dessert-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Litchi, lime e un velo di rosa: delicato e profumato, ora 0%.",
+      "descrizione_completa": "Litchi, lime e un velo di rosa: delicato e profumato, ora 0%.",
+      "immagine": "",
+      "icona": "🍰",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Lychee, lime and a hint of rose: delicate and fragrant, now 0%.",
+          "descrizione_completa": "Lychee, lime and a hint of rose: delicate and fragrant, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "tiramisu-martini-0",
+      "nome": "Tiramisù Martini 0%",
+      "categoria": "martini-dessert-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Caffè, mascarpone e cacao in un bicchiere: il dessert italiano in forma di cocktail, 0%.",
+      "descrizione_completa": "Caffè, mascarpone e cacao in un bicchiere: il dessert italiano in forma di cocktail, 0%.",
+      "immagine": "",
+      "icona": "🍰",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Coffee, mascarpone and cocoa in a glass: the Italian dessert as a cocktail, 0%.",
+          "descrizione_completa": "Coffee, mascarpone and cocoa in a glass: the Italian dessert as a cocktail, 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "white-russian-0",
+      "nome": "White Russian 0%",
+      "categoria": "martini-dessert-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Caffè, crema e ghiaccio: il classico cremoso da fine serata, ora 0%.",
+      "descrizione_completa": "Caffè, crema e ghiaccio: il classico cremoso da fine serata, ora 0%.",
+      "immagine": "",
+      "icona": "🍰",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Coffee, cream and ice: the creamy late-night classic, now 0%.",
+          "descrizione_completa": "Coffee, cream and ice: the creamy late-night classic, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "negroni-sbagliato-0",
+      "nome": "Negroni Sbagliato 0%",
+      "categoria": "aperitivi-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Bitter, vermouth rosso e spumante: lo sbaglio più famoso di Milano, ora 0%.",
+      "descrizione_completa": "Bitter, vermouth rosso e spumante: lo sbaglio più famoso di Milano, ora 0%.",
+      "immagine": "",
+      "icona": "🍸",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Bitter, red vermouth and sparkling wine: Milan's most famous mistake, now 0%.",
+          "descrizione_completa": "Bitter, red vermouth and sparkling wine: Milan's most famous mistake, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "bitter-soda-0",
+      "nome": "Bitter Soda 0%",
+      "categoria": "aperitivi-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Bitter rosso e soda ghiacciata: l'aperitivo da bar italiano più semplice, ora 0%.",
+      "descrizione_completa": "Bitter rosso e soda ghiacciata: l'aperitivo da bar italiano più semplice, ora 0%.",
+      "immagine": "",
+      "icona": "🍸",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Red bitter and ice-cold soda: the simplest Italian bar aperitivo, now 0%.",
+          "descrizione_completa": "Red bitter and ice-cold soda: the simplest Italian bar aperitivo, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "limoncello-spritz-0",
+      "nome": "Limoncello Spritz 0%",
+      "categoria": "aperitivi-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Limoncello 0%, spumante e soda: fresco e agrumato, lo spritz del sud Italia.",
+      "descrizione_completa": "Limoncello 0%, spumante e soda: fresco e agrumato, lo spritz del sud Italia.",
+      "immagine": "",
+      "icona": "🍸",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Limoncello 0%, sparkling wine and soda: fresh and citrusy, the southern Italian spritz.",
+          "descrizione_completa": "Limoncello 0%, sparkling wine and soda: fresh and citrusy, the southern Italian spritz."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "spritz-bianco-0",
+      "nome": "Spritz Bianco 0%",
+      "categoria": "aperitivi-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Vermouth bianco, spumante e soda con fetta di limone: lo spritz chiaro e leggero, ora 0%.",
+      "descrizione_completa": "Vermouth bianco, spumante e soda con fetta di limone: lo spritz chiaro e leggero, ora 0%.",
+      "immagine": "",
+      "icona": "🍸",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "White vermouth, sparkling wine and soda with a lemon slice: the light, pale spritz, now 0%.",
+          "descrizione_completa": "White vermouth, sparkling wine and soda with a lemon slice: the light, pale spritz, now 0%.",
+          "nome": "White Spritz 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "bitter-orange-0",
+      "nome": "Bitter Orange 0%",
+      "categoria": "aperitivi-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Bitter e succo d'arancia: dolce-amaro, colorato, perfetto prima di cena, ora 0%.",
+      "descrizione_completa": "Bitter e succo d'arancia: dolce-amaro, colorato, perfetto prima di cena, ora 0%.",
+      "immagine": "",
+      "icona": "🍸",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Bitter and orange juice: bittersweet, colorful, perfect before dinner, now 0%.",
+          "descrizione_completa": "Bitter and orange juice: bittersweet, colorful, perfect before dinner, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "whisky-sour-0",
+      "nome": "Whisky Sour 0%",
+      "categoria": "distillati-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Whisky 0%, limone e zucchero con schiuma vellutata: il sour più amato, ora 0%.",
+      "descrizione_completa": "Whisky 0%, limone e zucchero con schiuma vellutata: il sour più amato, ora 0%.",
+      "immagine": "",
+      "icona": "🥃",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Whisky 0%, lemon and sugar with a velvety foam: the best-loved sour, now 0%.",
+          "descrizione_completa": "Whisky 0%, lemon and sugar with a velvety foam: the best-loved sour, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "boulevardier-0",
+      "nome": "Boulevardier 0%",
+      "categoria": "distillati-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Whisky 0%, bitter e vermouth rosso: il cugino scuro del Negroni, ora 0%.",
+      "descrizione_completa": "Whisky 0%, bitter e vermouth rosso: il cugino scuro del Negroni, ora 0%.",
+      "immagine": "",
+      "icona": "🥃",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Whisky 0%, bitter and red vermouth: the Negroni's darker cousin, now 0%.",
+          "descrizione_completa": "Whisky 0%, bitter and red vermouth: the Negroni's darker cousin, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "sazerac-0",
+      "nome": "Sazerac 0%",
+      "categoria": "distillati-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Rye 0%, zucchero, bitter e scorza di limone: il cocktail storico di New Orleans, ora 0%.",
+      "descrizione_completa": "Rye 0%, zucchero, bitter e scorza di limone: il cocktail storico di New Orleans, ora 0%.",
+      "immagine": "",
+      "icona": "🥃",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Rye 0%, sugar, bitters and lemon peel: the historic New Orleans cocktail, now 0%.",
+          "descrizione_completa": "Rye 0%, sugar, bitters and lemon peel: the historic New Orleans cocktail, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "gimlet-0",
+      "nome": "Gimlet 0%",
+      "categoria": "distillati-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Gin 0% e lime: secco, pulito e tagliente, ora 0%.",
+      "descrizione_completa": "Gin 0% e lime: secco, pulito e tagliente, ora 0%.",
+      "immagine": "",
+      "icona": "🥃",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Gin 0% and lime: dry, clean and sharp, now 0%.",
+          "descrizione_completa": "Gin 0% and lime: dry, clean and sharp, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "gin-martini-dry-0",
+      "nome": "Gin Martini Dry 0%",
+      "categoria": "distillati-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Gin 0% e vermouth secco con oliva o limone: il Martini classico, ora 0%.",
+      "descrizione_completa": "Gin 0% e vermouth secco con oliva o limone: il Martini classico, ora 0%.",
+      "immagine": "",
+      "icona": "🥃",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Gin 0% and dry vermouth with olive or lemon: the classic Martini, now 0%.",
+          "descrizione_completa": "Gin 0% and dry vermouth with olive or lemon: the classic Martini, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "caipirinha-0",
+      "nome": "Caipirinha 0%",
+      "categoria": "tropicali-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Lime pestato, zucchero di canna e cachaça 0%: il cocktail brasiliano, ora 0%.",
+      "descrizione_completa": "Lime pestato, zucchero di canna e cachaça 0%: il cocktail brasiliano, ora 0%.",
+      "immagine": "",
+      "icona": "🍌",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Muddled lime, cane sugar and cachaça 0%: the Brazilian cocktail, now 0%.",
+          "descrizione_completa": "Muddled lime, cane sugar and cachaça 0%: the Brazilian cocktail, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "caipiroska-0",
+      "nome": "Caipiroska 0%",
+      "categoria": "tropicali-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Lime pestato, zucchero e vodka 0%: la variante fresca e secca, ora 0%.",
+      "descrizione_completa": "Lime pestato, zucchero e vodka 0%: la variante fresca e secca, ora 0%.",
+      "immagine": "",
+      "icona": "🍌",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Muddled lime, sugar and vodka 0%: the fresh, dry variation, now 0%.",
+          "descrizione_completa": "Muddled lime, sugar and vodka 0%: the fresh, dry variation, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "sex-on-the-beach-0",
+      "nome": "Sex on the Beach 0%",
+      "categoria": "tropicali-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Pesca, arancia e mirtillo rosso: dolce, fruttato e colorato, ora 0%.",
+      "descrizione_completa": "Pesca, arancia e mirtillo rosso: dolce, fruttato e colorato, ora 0%.",
+      "immagine": "",
+      "icona": "🍌",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Peach, orange and cranberry: sweet, fruity and colorful, now 0%.",
+          "descrizione_completa": "Peach, orange and cranberry: sweet, fruity and colorful, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "blue-lagoon-0",
+      "nome": "Blue Lagoon 0%",
+      "categoria": "tropicali-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Blu curaçao, limonata e ghiaccio: blu elettrico e rinfrescante, ora 0%.",
+      "descrizione_completa": "Blu curaçao, limonata e ghiaccio: blu elettrico e rinfrescante, ora 0%.",
+      "immagine": "",
+      "icona": "🍌",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Blue curaçao, lemonade and ice: electric blue and refreshing, now 0%.",
+          "descrizione_completa": "Blue curaçao, lemonade and ice: electric blue and refreshing, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "singapore-sling-0",
+      "nome": "Singapore Sling 0%",
+      "categoria": "tropicali-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Gin 0%, ciliegia, ananas e lime: il classico tiki di Singapore, ora 0%.",
+      "descrizione_completa": "Gin 0%, ciliegia, ananas e lime: il classico tiki di Singapore, ora 0%.",
+      "immagine": "",
+      "icona": "🍌",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Gin 0%, cherry, pineapple and lime: the Singapore tiki classic, now 0%.",
+          "descrizione_completa": "Gin 0%, cherry, pineapple and lime: the Singapore tiki classic, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "hurricane-0",
+      "nome": "Hurricane 0%",
+      "categoria": "tropicali-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Rum 0%, frutto della passione e lime: il cocktail di New Orleans, ora 0%.",
+      "descrizione_completa": "Rum 0%, frutto della passione e lime: il cocktail di New Orleans, ora 0%.",
+      "immagine": "",
+      "icona": "🍌",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Rum 0%, passion fruit and lime: the New Orleans cocktail, now 0%.",
+          "descrizione_completa": "Rum 0%, passion fruit and lime: the New Orleans cocktail, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "tom-collins-0",
+      "nome": "Tom Collins 0%",
+      "categoria": "long-drink-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Gin 0%, limone, zucchero e soda: alto, frizzante e rinfrescante, ora 0%.",
+      "descrizione_completa": "Gin 0%, limone, zucchero e soda: alto, frizzante e rinfrescante, ora 0%.",
+      "immagine": "",
+      "icona": "🍺",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Gin 0%, lemon, sugar and soda: tall, fizzy and refreshing, now 0%.",
+          "descrizione_completa": "Gin 0%, lemon, sugar and soda: tall, fizzy and refreshing, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "gin-fizz-0",
+      "nome": "Gin Fizz 0%",
+      "categoria": "long-drink-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Gin 0%, limone e soda: leggero e frizzante, il classico senza tempo, ora 0%.",
+      "descrizione_completa": "Gin 0%, limone e soda: leggero e frizzante, il classico senza tempo, ora 0%.",
+      "immagine": "",
+      "icona": "🍺",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Gin 0%, lemon and soda: light and fizzy, the timeless classic, now 0%.",
+          "descrizione_completa": "Gin 0%, lemon and soda: light and fizzy, the timeless classic, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "cape-codder-0",
+      "nome": "Cape Codder 0%",
+      "categoria": "long-drink-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Vodka 0%, mirtillo rosso e lime: semplice, rosso e rinfrescante, ora 0%.",
+      "descrizione_completa": "Vodka 0%, mirtillo rosso e lime: semplice, rosso e rinfrescante, ora 0%.",
+      "immagine": "",
+      "icona": "🍺",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Vodka 0%, cranberry and lime: simple, red and refreshing, now 0%.",
+          "descrizione_completa": "Vodka 0%, cranberry and lime: simple, red and refreshing, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "sea-breeze-0",
+      "nome": "Sea Breeze 0%",
+      "categoria": "long-drink-0",
+      "prezzo_centesimi": 990,
+      "descrizione": "Vodka 0%, mirtillo rosso e pompelmo: fresco, rosato e estivo, ora 0%.",
+      "descrizione_completa": "Vodka 0%, mirtillo rosso e pompelmo: fresco, rosato e estivo, ora 0%.",
+      "immagine": "",
+      "icona": "🍺",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Vodka 0%, cranberry and grapefruit: fresh, pink and summery, now 0%.",
+          "descrizione_completa": "Vodka 0%, cranberry and grapefruit: fresh, pink and summery, now 0%."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "anisetta-0",
+      "nome": "Anisetta 0%",
+      "categoria": "liquori-0",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Anice e finocchietto delicati, dolce e fresca: perfetta ghiacciata o nel caffè.",
+      "descrizione_completa": "Anice e finocchietto delicati, dolce e fresca: perfetta ghiacciata o nel caffè.",
+      "immagine": "",
+      "icona": "🍷",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Delicate anise and fennel, sweet and fresh: perfect ice-cold or in coffee.",
+          "descrizione_completa": "Delicate anise and fennel, sweet and fresh: perfect ice-cold or in coffee."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "genepi-0",
+      "nome": "Genepì 0%",
+      "categoria": "liquori-0",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Erbe alpine e artemisia in infusione: balsamico, verde, tipico di montagna.",
+      "descrizione_completa": "Erbe alpine e artemisia in infusione: balsamico, verde, tipico di montagna.",
+      "immagine": "",
+      "icona": "🍷",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Infused alpine herbs and artemisia: balsamic, green, typical of the mountains.",
+          "descrizione_completa": "Infused alpine herbs and artemisia: balsamic, green, typical of the mountains."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "liquore-nocciole-0",
+      "nome": "Liquore alle Nocciole 0%",
+      "categoria": "liquori-0",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Nocciole tostate e cacao: dolce e avvolgente, per dessert e cocktail.",
+      "descrizione_completa": "Nocciole tostate e cacao: dolce e avvolgente, per dessert e cocktail.",
+      "immagine": "",
+      "icona": "🍷",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Toasted hazelnuts and cocoa: sweet and rounded, for desserts and cocktails.",
+          "descrizione_completa": "Toasted hazelnuts and cocoa: sweet and rounded, for desserts and cocktails.",
+          "nome": "Hazelnut Liqueur 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "liquore-ciliegia-0",
+      "nome": "Liquore di Ciliegia 0%",
+      "categoria": "liquori-0",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Ciliegie nere e mandorla: dolce e intenso, per dolci e cocktail.",
+      "descrizione_completa": "Ciliegie nere e mandorla: dolce e intenso, per dolci e cocktail.",
+      "immagine": "",
+      "icona": "🍷",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Black cherries and almond: sweet and intense, for desserts and cocktails.",
+          "descrizione_completa": "Black cherries and almond: sweet and intense, for desserts and cocktails.",
+          "nome": "Cherry Liqueur 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "vino-rosso-0",
+      "nome": "Vino Rosso 0%",
+      "categoria": "vino-0",
+      "prezzo_centesimi": 890,
+      "descrizione": "Frutti rossi, tannino morbido e spezie: il rosso da tavola, senza alcol.",
+      "descrizione_completa": "Frutti rossi, tannino morbido e spezie: il rosso da tavola, senza alcol.",
+      "immagine": "",
+      "icona": "🍇",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Red fruit, soft tannins and spice: the table red, without alcohol.",
+          "descrizione_completa": "Red fruit, soft tannins and spice: the table red, without alcohol.",
+          "nome": "Red Wine 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "vino-bianco-0",
+      "nome": "Vino Bianco 0%",
+      "categoria": "vino-0",
+      "prezzo_centesimi": 890,
+      "descrizione": "Agrumi e fiori bianchi, fresco: il bianco da aperitivo e da pesce, senza alcol.",
+      "descrizione_completa": "Agrumi e fiori bianchi, fresco: il bianco da aperitivo e da pesce, senza alcol.",
+      "immagine": "",
+      "icona": "🍇",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Citrus and white flowers, fresh: the white for aperitivo and fish, without alcohol.",
+          "descrizione_completa": "Citrus and white flowers, fresh: the white for aperitivo and fish, without alcohol.",
+          "nome": "White Wine 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "vino-rosato-0",
+      "nome": "Vino Rosato 0%",
+      "categoria": "vino-0",
+      "prezzo_centesimi": 890,
+      "descrizione": "Fragola, petali di rosa e freschezza: il rosato dell'estate, senza alcol.",
+      "descrizione_completa": "Fragola, petali di rosa e freschezza: il rosato dell'estate, senza alcol.",
+      "immagine": "",
+      "icona": "🍇",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Strawberry, rose petals and freshness: the summer rosé, without alcohol.",
+          "descrizione_completa": "Strawberry, rose petals and freshness: the summer rosé, without alcohol.",
+          "nome": "Rosé Wine 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "vin-brule-0",
+      "nome": "Vin Brulé 0%",
+      "categoria": "vino-0",
+      "prezzo_centesimi": 790,
+      "descrizione": "Cannella, chiodi di garofano e scorza d'arancia da servire caldo: il Natale, senza alcol.",
+      "descrizione_completa": "Cannella, chiodi di garofano e scorza d'arancia da servire caldo: il Natale, senza alcol.",
+      "immagine": "",
+      "icona": "🍇",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Cinnamon, cloves and orange peel served hot: Christmas, without alcohol.",
+          "descrizione_completa": "Cinnamon, cloves and orange peel served hot: Christmas, without alcohol.",
+          "nome": "Mulled Wine 0%"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "sangria-0",
+      "nome": "Sangria 0%",
+      "categoria": "vino-0",
+      "prezzo_centesimi": 790,
+      "descrizione": "Frutta fresca, spezie e agrumi: la sangria da condividere, senza alcol.",
+      "descrizione_completa": "Frutta fresca, spezie e agrumi: la sangria da condividere, senza alcol.",
+      "immagine": "",
+      "icona": "🍇",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Fresh fruit, spices and citrus: the sangria to share, without alcohol.",
+          "descrizione_completa": "Fresh fruit, spices and citrus: the sangria to share, without alcohol."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "tonic-premium",
+      "nome": "Tonic Premium",
+      "categoria": "mixer-0",
+      "prezzo_centesimi": 390,
+      "descrizione": "Acqua tonica con chinino e botanici: la base del Gin Tonic perfetto.",
+      "descrizione_completa": "Acqua tonica con chinino e botanici: la base del Gin Tonic perfetto.",
+      "immagine": "",
+      "icona": "🧊",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Tonic water with quinine and botanicals: the base of the perfect Gin Tonic.",
+          "descrizione_completa": "Tonic water with quinine and botanicals: the base of the perfect Gin Tonic."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "ginger-beer",
+      "nome": "Ginger Beer",
+      "categoria": "mixer-0",
+      "prezzo_centesimi": 390,
+      "descrizione": "Zenzero piccante e frizzante: per Moscow Mule, Dark & Stormy e long drink.",
+      "descrizione_completa": "Zenzero piccante e frizzante: per Moscow Mule, Dark & Stormy e long drink.",
+      "immagine": "",
+      "icona": "🧊",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Spicy, fizzy ginger: for Moscow Mule, Dark & Stormy and long drinks.",
+          "descrizione_completa": "Spicy, fizzy ginger: for Moscow Mule, Dark & Stormy and long drinks."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "soda-limone",
+      "nome": "Soda al Limone",
+      "categoria": "mixer-0",
+      "prezzo_centesimi": 350,
+      "descrizione": "Soda leggera con limone vero: per spritz e long drink.",
+      "descrizione_completa": "Soda leggera con limone vero: per spritz e long drink.",
+      "immagine": "",
+      "icona": "🧊",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Light soda with real lemon: for spritz and long drinks.",
+          "descrizione_completa": "Light soda with real lemon: for spritz and long drinks.",
+          "nome": "Lemon Soda"
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "sciroppo-spritz",
+      "nome": "Sciroppo Spritz",
+      "categoria": "mixer-0",
+      "prezzo_centesimi": 690,
+      "descrizione": "Concentrato per preparare lo spritz 0% in un attimo: arancia amara e botanici.",
+      "descrizione_completa": "Concentrato per preparare lo spritz 0% in un attimo: arancia amara e botanici.",
+      "immagine": "",
+      "icona": "🧊",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "descrizione": "Concentrate to make a 0% spritz in a moment: bitter orange and botanicals.",
+          "descrizione_completa": "Concentrate to make a 0% spritz in a moment: bitter orange and botanicals.",
+          "nome": "Spritz Syrup"
         }
       }
     }
