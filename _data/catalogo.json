@@ -1772,7 +1772,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Blu curaçao, limonata e ghiaccio: blu elettrico e rinfrescante, ora 0%.",
       "descrizione_completa": "Blu curaçao, limonata e ghiaccio: blu elettrico e rinfrescante, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/blue-lagoon-0.webp",
       "icona": "🍌",
       "visibile": true,
       "tr": {
@@ -1790,7 +1790,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Gin 0%, ciliegia, ananas e lime: il classico tiki di Singapore, ora 0%.",
       "descrizione_completa": "Gin 0%, ciliegia, ananas e lime: il classico tiki di Singapore, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/singapore-sling-0.webp",
       "icona": "🍌",
       "visibile": true,
       "tr": {
@@ -1808,7 +1808,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Rum 0%, frutto della passione e lime: il cocktail di New Orleans, ora 0%.",
       "descrizione_completa": "Rum 0%, frutto della passione e lime: il cocktail di New Orleans, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/hurricane-0.webp",
       "icona": "🍌",
       "visibile": true,
       "tr": {
@@ -1826,7 +1826,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Gin 0%, limone, zucchero e soda: alto, frizzante e rinfrescante, ora 0%.",
       "descrizione_completa": "Gin 0%, limone, zucchero e soda: alto, frizzante e rinfrescante, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/tom-collins-0.webp",
       "icona": "🍺",
       "visibile": true,
       "tr": {
@@ -1844,7 +1844,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Gin 0%, limone e soda: leggero e frizzante, il classico senza tempo, ora 0%.",
       "descrizione_completa": "Gin 0%, limone e soda: leggero e frizzante, il classico senza tempo, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/gin-fizz-0.webp",
       "icona": "🍺",
       "visibile": true,
       "tr": {
@@ -1862,7 +1862,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Vodka 0%, mirtillo rosso e lime: semplice, rosso e rinfrescante, ora 0%.",
       "descrizione_completa": "Vodka 0%, mirtillo rosso e lime: semplice, rosso e rinfrescante, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/cape-codder-0.webp",
       "icona": "🍺",
       "visibile": true,
       "tr": {
@@ -1880,7 +1880,7 @@
       "prezzo_centesimi": 990,
       "descrizione": "Vodka 0%, mirtillo rosso e pompelmo: fresco, rosato e estivo, ora 0%.",
       "descrizione_completa": "Vodka 0%, mirtillo rosso e pompelmo: fresco, rosato e estivo, ora 0%.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/sea-breeze-0.webp",
       "icona": "🍺",
       "visibile": true,
       "tr": {
@@ -1898,7 +1898,7 @@
       "prezzo_centesimi": 1290,
       "descrizione": "Anice e finocchietto delicati, dolce e fresca: perfetta ghiacciata o nel caffè.",
       "descrizione_completa": "Anice e finocchietto delicati, dolce e fresca: perfetta ghiacciata o nel caffè.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/anisetta-0.webp",
       "icona": "🍷",
       "visibile": true,
       "tr": {
@@ -1916,7 +1916,7 @@
       "prezzo_centesimi": 1290,
       "descrizione": "Erbe alpine e artemisia in infusione: balsamico, verde, tipico di montagna.",
       "descrizione_completa": "Erbe alpine e artemisia in infusione: balsamico, verde, tipico di montagna.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/genepi-0.webp",
       "icona": "🍷",
       "visibile": true,
       "tr": {
@@ -1934,7 +1934,7 @@
       "prezzo_centesimi": 1290,
       "descrizione": "Nocciole tostate e cacao: dolce e avvolgente, per dessert e cocktail.",
       "descrizione_completa": "Nocciole tostate e cacao: dolce e avvolgente, per dessert e cocktail.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/liquore-nocciole-0.webp",
       "icona": "🍷",
       "visibile": true,
       "tr": {
@@ -1953,7 +1953,7 @@
       "prezzo_centesimi": 1290,
       "descrizione": "Ciliegie nere e mandorla: dolce e intenso, per dolci e cocktail.",
       "descrizione_completa": "Ciliegie nere e mandorla: dolce e intenso, per dolci e cocktail.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/liquore-ciliegia-0.webp",
       "icona": "🍷",
       "visibile": true,
       "tr": {
@@ -1972,7 +1972,7 @@
       "prezzo_centesimi": 890,
       "descrizione": "Frutti rossi, tannino morbido e spezie: il rosso da tavola, senza alcol.",
       "descrizione_completa": "Frutti rossi, tannino morbido e spezie: il rosso da tavola, senza alcol.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/vino-rosso-0.webp",
       "icona": "🍇",
       "visibile": true,
       "tr": {
@@ -1991,7 +1991,7 @@
       "prezzo_centesimi": 890,
       "descrizione": "Agrumi e fiori bianchi, fresco: il bianco da aperitivo e da pesce, senza alcol.",
       "descrizione_completa": "Agrumi e fiori bianchi, fresco: il bianco da aperitivo e da pesce, senza alcol.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/vino-bianco-0.webp",
       "icona": "🍇",
       "visibile": true,
       "tr": {
@@ -2010,7 +2010,7 @@
       "prezzo_centesimi": 890,
       "descrizione": "Fragola, petali di rosa e freschezza: il rosato dell'estate, senza alcol.",
       "descrizione_completa": "Fragola, petali di rosa e freschezza: il rosato dell'estate, senza alcol.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/vino-rosato-0.webp",
       "icona": "🍇",
       "visibile": true,
       "tr": {
