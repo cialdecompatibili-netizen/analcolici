@@ -161,7 +161,7 @@
       "descrizione_completa": "Bitter arancione, prosecco 0% e soda: lo spritz che ha conquistato il mondo, ora anche 0%.",
       "immagine": "assets/images/prodotti/aperol-style-spritz-0.webp",
       "icona": "🍸",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
           "descrizione": "Orange bitter, 0% prosecco and soda: the spritz that conquered the world, now also 0%.",
@@ -197,7 +197,7 @@
       "descrizione_completa": "Agrumi e botaniche amare: l'aperitivo italiano storico, gia' senza alcol per tradizione.",
       "immagine": "assets/images/prodotti/crodino-style-0.webp",
       "icona": "🍸",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
           "descrizione": "Citrus and bitter botanicals: the historic Italian aperitivo, alcohol-free by tradition.",
@@ -431,7 +431,7 @@
       "descrizione_completa": "Bitter veneziano, prosecco 0% e soda: lo spritz della tradizione, tutto da riscoprire senza alcol.",
       "immagine": "assets/images/prodotti/select-spritz-0.webp",
       "icona": "🥃",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
           "descrizione": "Venetian bitter, 0% prosecco and soda: the traditional spritz, ready to be rediscovered without alcohol.",
