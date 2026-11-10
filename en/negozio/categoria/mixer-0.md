@@ -10,4 +10,5 @@ lang: en
 locale: en
 ref: shop-cat-mixer-0
 tr: tradotto
+tr_hash: 45h
 ---

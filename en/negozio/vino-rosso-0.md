@@ -10,4 +10,5 @@ lang: en
 locale: en
 ref: shop-prod-vino-rosso-0
 tr: tradotto
+tr_hash: 45h
 ---

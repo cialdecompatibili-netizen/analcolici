@@ -10,4 +10,5 @@ lang: en
 locale: en
 ref: shop-prod-sangria-0
 tr: tradotto
+tr_hash: 45h
 ---

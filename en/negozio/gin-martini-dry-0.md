@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/gin-martini-dry-0.webp
 ref: shop-prod-gin-martini-dry-0
 tr: tradotto
+tr_hash: 45h
 ---

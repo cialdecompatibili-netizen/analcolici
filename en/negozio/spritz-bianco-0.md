@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/spritz-bianco-0.webp
 ref: shop-prod-spritz-bianco-0
 tr: tradotto
+tr_hash: 45h
 ---

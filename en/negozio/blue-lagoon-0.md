@@ -10,4 +10,5 @@ lang: en
 locale: en
 ref: shop-prod-blue-lagoon-0
 tr: tradotto
+tr_hash: 45h
 ---

@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/bitter-soda-0.webp
 ref: shop-prod-bitter-soda-0
 tr: tradotto
+tr_hash: 45h
 ---

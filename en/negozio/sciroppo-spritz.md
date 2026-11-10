@@ -10,4 +10,5 @@ lang: en
 locale: en
 ref: shop-prod-sciroppo-spritz
 tr: tradotto
+tr_hash: 45h
 ---

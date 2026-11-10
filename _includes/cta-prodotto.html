@@ -1,0 +1,13 @@
+{%- comment -%}CTA fine articolo: invito (non aggressivo) all'alternativa zero alcol. Parametro opzionale id=<id prodotto>; senza id rimanda allo shop. Testi per lingua della pagina.{%- endcomment -%}
+{%- assign ct_en = false -%}{%- if page.lang and page.lang != site.default_lang -%}{%- assign ct_en = true -%}{%- endif -%}
+{%- assign ct_p = nil -%}{%- if include.id -%}{%- assign ct_p = site.data.catalogo.prodotti | where: 'id', include.id | first -%}{%- endif -%}
+<div class="gc"><div class="gc-pl" style="margin:2rem 0">
+{%- if ct_p -%}
+{%- assign ct_n = ct_p.tr[page.lang].nome | default: ct_p.nome -%}
+<p>{% if ct_en %}Prefer the alcohol-free version? If you like, try <b>{{ ct_n }}</b>: the zero-alcohol alternative, ready to serve over ice.{% else %}Preferisci la versione senza alcol? Se ti va, prova <b>{{ ct_n }}</b>: l&#39;alternativa zero alcol, gi&agrave; pronta da servire su ghiaccio.{% endif %}</p>
+<p><a class="gc-btn gc-btn-a" href="{% include shop-url.html k="prod" id=include.id %}">{% if ct_en %}Discover{% else %}Scopri{% endif %} {{ ct_n }}</a></p>
+{%- else -%}
+<p>{% if ct_en %}Want the same experience without alcohol? If you wish, discover our zero-alcohol alternatives, ready to pour.{% else %}Vuoi la stessa esperienza senza alcol? Se lo desideri, scopri le nostre alternative zero alcol, pronte da versare.{% endif %}</p>
+<p><a class="gc-btn gc-btn-a" href="{% include shop-url.html k="shop" %}">{% if ct_en %}Go to the shop{% else %}Vai allo shop{% endif %}</a></p>
+{%- endif -%}
+</div></div>

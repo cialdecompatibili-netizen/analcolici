@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/prosecco-brut-0.webp
 ref: shop-prod-prosecco-brut-0
 tr: tradotto
+tr_hash: 45h
 ---

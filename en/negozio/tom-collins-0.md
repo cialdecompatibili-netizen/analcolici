@@ -10,4 +10,5 @@ lang: en
 locale: en
 ref: shop-prod-tom-collins-0
 tr: tradotto
+tr_hash: 45h
 ---

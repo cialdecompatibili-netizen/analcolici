@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/whisky-sour-0.webp
 ref: shop-prod-whisky-sour-0
 tr: tradotto
+tr_hash: 45h
 ---

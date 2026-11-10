@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/sex-on-the-beach-0.webp
 ref: shop-prod-sex-on-the-beach-0
 tr: tradotto
+tr_hash: 45h
 ---

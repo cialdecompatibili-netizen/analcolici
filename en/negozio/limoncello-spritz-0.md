@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/limoncello-spritz-0.webp
 ref: shop-prod-limoncello-spritz-0
 tr: tradotto
+tr_hash: 45h
 ---

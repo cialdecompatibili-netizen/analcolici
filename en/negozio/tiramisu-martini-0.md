@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/tiramisu-martini-0.webp
 ref: shop-prod-tiramisu-martini-0
 tr: tradotto
+tr_hash: 45h
 ---

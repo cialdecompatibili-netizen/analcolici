@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/gimlet-0.webp
 ref: shop-prod-gimlet-0
 tr: tradotto
+tr_hash: 45h
 ---

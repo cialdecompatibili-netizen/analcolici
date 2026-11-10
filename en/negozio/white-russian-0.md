@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/white-russian-0.webp
 ref: shop-prod-white-russian-0
 tr: tradotto
+tr_hash: 45h
 ---

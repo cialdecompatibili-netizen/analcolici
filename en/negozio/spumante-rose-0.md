@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/spumante-rose-0.webp
 ref: shop-prod-spumante-rose-0
 tr: tradotto
+tr_hash: 45h
 ---

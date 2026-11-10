@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/box-dry-january-0.webp
 ref: shop-prod-box-dry-january-0
 tr: tradotto
+tr_hash: 45h
 ---

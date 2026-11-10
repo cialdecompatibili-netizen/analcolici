@@ -10,4 +10,5 @@ lang: en
 locale: en
 ref: shop-prod-liquore-nocciole-0
 tr: tradotto
+tr_hash: 45h
 ---

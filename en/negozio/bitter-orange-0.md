@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/bitter-orange-0.webp
 ref: shop-prod-bitter-orange-0
 tr: tradotto
+tr_hash: 45h
 ---

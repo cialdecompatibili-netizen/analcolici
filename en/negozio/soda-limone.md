@@ -10,4 +10,5 @@ lang: en
 locale: en
 ref: shop-prod-soda-limone
 tr: tradotto
+tr_hash: 45h
 ---

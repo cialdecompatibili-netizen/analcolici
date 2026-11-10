@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/box-natale-bollicine-0.webp
 ref: shop-prod-box-natale-bollicine-0
 tr: tradotto
+tr_hash: 45h
 ---

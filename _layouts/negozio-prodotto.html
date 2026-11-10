@@ -17,6 +17,9 @@ PUNTI CRITICI
 {%- if site.ecommerce != true or nz_p == nil or nz_p.visibile == false -%}
 <p>Questo prodotto non &egrave; disponibile. <a href="{% include shop-url.html k="shop" %}">Torna al negozio</a></p>
 {%- else -%}
+{%- assign nz_ld_nome = nz_p.tr[page.lang].nome | default: nz_p.nome | replace: '&ntilde;', 'ñ' | strip_html -%}
+{%- assign nz_ld_img = '' -%}{%- if nz_p.immagine and nz_p.immagine != '' -%}{%- assign nz_ld_img = nz_p.immagine | remove_first: '/' | prepend: '/' | absolute_url -%}{%- endif -%}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Product","name":{{ nz_ld_nome | jsonify }},"description":{{ nz_p.tr[page.lang].descrizione | default: nz_p.descrizione | strip_html | jsonify }},{% if nz_ld_img != "" %}"image":{{ nz_ld_img | jsonify }},{% endif %}"sku":{{ nz_p.id | jsonify }},"brand":{"@type":"Brand","name":{{ site.brand | jsonify }}},"offers":{"@type":"Offer","url":{{ page.url | absolute_url | jsonify }},"priceCurrency":"EUR","price":"{{ nz_p.prezzo_centesimi | divided_by: 100.0 | round: 2 }}","availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}</script>
 {%- assign nz_c = site.data.catalogo.categorie | where: 'id', nz_p.categoria | first -%}
 {%- assign nz_dig = false -%}{%- if nz_p.tipo == 'digitale' -%}{%- assign nz_dig = true -%}{%- endif -%}
 <div id="negozio" class="nz-pp" data-worker="">
@@ -47,6 +50,8 @@ PUNTI CRITICI
 <p>{{ nz_p.tr[page.lang].descrizione | default: nz_p.descrizione | escape }}</p>
 {%- endif -%}
 </section>
+{%- assign nz_isen = 'n' -%}{%- if page.lang and page.lang != site.default_lang -%}{%- assign nz_isen = 'y' -%}{%- endif -%}
+{%- for nz_post in site.posts -%}{%- assign nz_pen = 'n' -%}{%- if nz_post.url contains '/en/' -%}{%- assign nz_pen = 'y' -%}{%- endif -%}{%- if nz_post.pid_correlato == nz_p.id and nz_pen == nz_isen -%}<p class="nz-pp-ricetta">{% if nz_isen == "y" %}Related recipe:{% else %}Ricetta correlata:{% endif %} <a href="{{ nz_post.url | relative_url }}">{{ nz_post.title | escape }}</a></p>{%- break -%}{%- endif -%}{%- endfor -%}
 <p class="nz-pp-torna"><a href="{% include shop-url.html k="shop" %}">&larr; Torna al negozio</a> &middot; <a href="{{ nz_lh | append: 'carrello/' | relative_url }}">Vai al carrello</a></p>
 </div>
 {%- endif -%}

@@ -11,4 +11,5 @@ lang: en
 locale: en
 ref: shop-prod-amaro-erbe-0
 tr: tradotto
+tr_hash: 45h
 ---

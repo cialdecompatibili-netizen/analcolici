@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/negroni-sbagliato-0.webp
 ref: shop-prod-negroni-sbagliato-0
 tr: tradotto
+tr_hash: 45h
 ---

@@ -11,4 +11,5 @@ locale: en
 seo_image: /assets/images/prodotti/box-spritz-party-0.webp
 ref: shop-prod-box-spritz-party-0
 tr: tradotto
+tr_hash: 45h
 ---
