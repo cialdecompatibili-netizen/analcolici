@@ -93,3 +93,5 @@ Tutto quello che e' stato messo a punto su analcolici e vale per ogni nuovo sito
 - [ ] Aggiornare i numeri in home/filosofia (48 prodotti) se vogliono restare corretti.
 - [ ] Mancano `contact_endpoint`, `whatsapp`, `email` in `_config.yml`; pagine Privacy e Cookie.
 - [ ] Opzionale: altre varianti stesso trattamento per gin, rum, ecc.; altre ricette agrumata/tropicale; accenti vecchi articoli.
+
+- [x] 10/11/2026 profitto: rinominati 5 prodotti a rischio marchio (aperol/crodino/select nascosti finche' la foto non e' rifatta; dark-stormy, painkiller), JSON-LD Product, CTA 'alternativa zero alcol' in tutti i post, ricetta correlata nella scheda prodotto. DA FARE dopo il reset crediti (03:31): python automation/rifai_foto_rinominati.py (rifa le 5 foto, riattiva i 3 nascosti). 6 prodotti ancora senza foto: foto_sito.py --repo . --api
