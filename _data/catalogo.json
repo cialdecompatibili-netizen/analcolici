@@ -2029,7 +2029,7 @@
       "prezzo_centesimi": 790,
       "descrizione": "Cannella, chiodi di garofano e scorza d'arancia da servire caldo: il Natale, senza alcol.",
       "descrizione_completa": "Cannella, chiodi di garofano e scorza d'arancia da servire caldo: il Natale, senza alcol.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/vin-brule-0.webp",
       "icona": "🍇",
       "visibile": true,
       "tr": {
@@ -2048,7 +2048,7 @@
       "prezzo_centesimi": 790,
       "descrizione": "Frutta fresca, spezie e agrumi: la sangria da condividere, senza alcol.",
       "descrizione_completa": "Frutta fresca, spezie e agrumi: la sangria da condividere, senza alcol.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/sangria-0.webp",
       "icona": "🍇",
       "visibile": true,
       "tr": {
@@ -2066,7 +2066,7 @@
       "prezzo_centesimi": 390,
       "descrizione": "Acqua tonica con chinino e botanici: la base del Gin Tonic perfetto.",
       "descrizione_completa": "Acqua tonica con chinino e botanici: la base del Gin Tonic perfetto.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/tonic-premium.webp",
       "icona": "🧊",
       "visibile": true,
       "tr": {
@@ -2084,7 +2084,7 @@
       "prezzo_centesimi": 390,
       "descrizione": "Zenzero piccante e frizzante: per Moscow Mule, Tempesta Scura e long drink.",
       "descrizione_completa": "Zenzero piccante e frizzante: per Moscow Mule, Tempesta Scura e long drink.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/ginger-beer.webp",
       "icona": "🧊",
       "visibile": true,
       "tr": {
@@ -2102,7 +2102,7 @@
       "prezzo_centesimi": 350,
       "descrizione": "Soda leggera con limone vero: per spritz e long drink.",
       "descrizione_completa": "Soda leggera con limone vero: per spritz e long drink.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/soda-limone.webp",
       "icona": "🧊",
       "visibile": true,
       "tr": {
@@ -2121,7 +2121,7 @@
       "prezzo_centesimi": 690,
       "descrizione": "Concentrato per preparare lo spritz 0% in un attimo: arancia amara e botanici.",
       "descrizione_completa": "Concentrato per preparare lo spritz 0% in un attimo: arancia amara e botanici.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/sciroppo-spritz.webp",
       "icona": "🧊",
       "visibile": true,
       "tr": {
