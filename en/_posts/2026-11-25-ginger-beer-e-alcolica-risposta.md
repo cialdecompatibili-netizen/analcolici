@@ -10,6 +10,8 @@ categories:
   - "Aperitif Guides"
 tr: tradotto
 ref: ginger-beer-e-alcolica-risposta
+header:
+  teaser: "/assets/images/blog/ginger-beer-e-alcolica-risposta.webp"
 pid_correlato: ginger-beer
 ---
 

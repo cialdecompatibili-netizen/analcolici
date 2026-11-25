@@ -9,6 +9,8 @@ seo_description: "La ginger beer è alcolica? Quasi sempre no: ecco la differenz
 categories:
   - "Guide all'Aperitivo"
 ref: ginger-beer-e-alcolica-risposta
+header:
+  teaser: "/assets/images/blog/ginger-beer-e-alcolica-risposta.webp"
 pid_correlato: ginger-beer
 ---
 

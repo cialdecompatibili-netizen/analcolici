@@ -10,6 +10,8 @@ categories:
   - "Mocktail Recipes"
 tr: tradotto
 ref: ricetta-kir-royale-analcolico-ribes-bollicine
+header:
+  teaser: "/assets/images/blog/ricetta-kir-royale-analcolico-ribes-bollicine.webp"
 pid_correlato: kir-royale-0
 ---
 

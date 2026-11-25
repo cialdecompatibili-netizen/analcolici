@@ -10,6 +10,8 @@ categories:
   - "Aperitif Guides"
 tr: tradotto
 ref: gin-analcolico-dove-comprarlo-come-usarlo
+header:
+  teaser: "/assets/images/blog/gin-analcolico-dove-comprarlo-come-usarlo.webp"
 pid_correlato: gin-tonic-botanico-0
 ---
 

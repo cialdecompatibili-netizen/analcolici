@@ -9,6 +9,8 @@ seo_description: "Spritz bianco analcolico: ricetta con base chiara, bollicine 0
 categories:
   - "Ricette Mocktail"
 ref: ricetta-spritz-bianco-analcolico
+header:
+  teaser: "/assets/images/blog/ricetta-spritz-bianco-analcolico.webp"
 pid_correlato: spritz-bianco-0
 ---
 

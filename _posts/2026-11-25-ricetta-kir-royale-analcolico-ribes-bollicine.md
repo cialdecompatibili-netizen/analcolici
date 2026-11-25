@@ -9,6 +9,8 @@ seo_description: "Kir royale analcolico in 2 minuti: crema di ribes nero e bolli
 categories:
   - "Ricette Mocktail"
 ref: ricetta-kir-royale-analcolico-ribes-bollicine
+header:
+  teaser: "/assets/images/blog/ricetta-kir-royale-analcolico-ribes-bollicine.webp"
 pid_correlato: kir-royale-0
 ---
 
