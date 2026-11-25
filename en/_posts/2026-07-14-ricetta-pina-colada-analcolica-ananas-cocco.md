@@ -4,8 +4,8 @@ title: "Recipe: Creamy Non-Alcoholic Piña Colada with pineapple and coconut"
 date: 2026-07-14
 permalink: /en/blog/mocktail-recipes/ricetta-pina-colada-analcolica-ananas-cocco/
 excerpt: "How to make creamy and tropical non-alcoholic pina colada: exact doses of pineapple, coconut milk and lime, blender technique and tricks for the perfect texture."
-seo_title: "Non-Alcoholic Pina Colada Recipe"
-seo_description: "How to make creamy and tropical non-alcoholic pina colada: exact doses of pineapple, coconut milk and lime, blender technique and tricks for the perfect texture."
+seo_title: "Non-Alcoholic Piña Colada: Pineapple Coconut Recipe"
+seo_description: "Creamy non-alcoholic piña colada with pineapple and coconut. Recipe, ratios and tips for a tropical mocktail ready in 5 minutes, blended or shaken."
 categories:
   - "Mocktail Recipes"
 tr: tradotto

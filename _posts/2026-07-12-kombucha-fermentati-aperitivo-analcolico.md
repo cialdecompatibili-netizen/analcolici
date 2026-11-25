@@ -4,8 +4,8 @@ title: "Kombucha e fermentati: la nuova frontiera dell'aperitivo analcolico"
 date: 2026-07-12
 permalink: /blog/wellness-detox/kombucha-fermentati-aperitivo-analcolico/
 excerpt: "Kombucha, te fermentato e bevande probiotiche: come si stanno ritagliando uno spazio nell'aperitivo italiano."
-seo_title: "Kombucha nell'Aperitivo Analcolico: Guida ai Fermentati"
-seo_description: "Kombucha, te fermentato e bevande probiotiche: come si stanno ritagliando uno spazio nell'aperitivo italiano."
+seo_title: "Kombucha nell'aperitivo analcolico: guida ai fermentati"
+seo_description: "Come usare kombucha e fermentati in un aperitivo analcolico: sapori, abbinamenti e idee di mocktail frizzanti, complessi e senza alcol."
 categories:
   - "Wellness & Detox"
 ref: kombucha-fermentati-aperitivo-analcolico

@@ -4,8 +4,8 @@ title: "Kombucha and fermented products: the new frontier of the non-alcoholic a
 date: 2026-07-12
 permalink: /en/blog/wellness-detox/kombucha-fermentati-aperitivo-analcolico/
 excerpt: "Kombucha, fermented tea and probiotic drinks: how they are carving out a space for themselves in the Italian aperitif."
-seo_title: "Kombucha in the Non-Alcoholic Aperitif: Guide to Fermented Products"
-seo_description: "Kombucha, fermented tea and probiotic drinks: how they are carving out a space for themselves in the Italian aperitif."
+seo_title: "Kombucha in Non-Alcoholic Aperitifs: Fermented Drinks Guide"
+seo_description: "How to use kombucha and ferments in a non-alcoholic aperitif: flavours, pairings and ideas for sparkling, complex alcohol-free mocktails."
 categories:
   - "Wellness & Detox"
 tr: tradotto

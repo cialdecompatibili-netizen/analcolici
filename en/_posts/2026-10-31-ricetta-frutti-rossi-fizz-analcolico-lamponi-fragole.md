@@ -4,8 +4,8 @@ title: "Recipe: Red Berry Fizz non-alcoholic mocktail with raspberries, strawber
 date: 2026-10-31
 permalink: /en/blog/mocktail-recipes/ricetta-frutti-rossi-fizz-analcolico-lamponi-fragole/
 excerpt: "How to make a red, sweet and fizzy red berry mocktail: muddled raspberries, strawberries and blueberries, pomegranate juice, lime and a sparkling finish."
-seo_title: "Red Berry Mocktail Recipe, Non-Alcoholic"
-seo_description: "Red berry mocktail recipe: sweet, ruby red and fizzy, with raspberries, strawberries, pomegranate and lime. Ready in 5 minutes, alcohol-free."
+seo_title: "Berry Mocktail: Raspberry Strawberry Fizz Recipe"
+seo_description: "Berry mocktail with raspberries and strawberries: an alcohol-free fizz recipe with ratios and tips for a fresh, sparkling, colourful drink."
 categories:
   - "Mocktail Recipes"
 tr: tradotto
