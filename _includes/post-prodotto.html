@@ -1,0 +1,22 @@
+{%- comment -%}
+GUIDA-SVILUPPO: box "prodotto correlato" a fine articolo (CTA vendita). Si attiva con pid_correlato nel front matter del post (id prodotto del catalogo).
+Mostra foto, nome, prezzo, descrizione breve e pulsante verso la scheda (IT /negozio/<id>/, EN /en/shop/<id>/). Se l'id non esiste non stampa nulla.
+{%- endcomment -%}
+{%- assign pc_en = false -%}{%- if page.lang == "en" -%}{%- assign pc_en = true -%}{%- endif -%}
+{%- assign pc = site.data.catalogo.prodotti | where: "id", page.pid_correlato | first -%}
+{%- if pc and pc.visibile != false -%}
+{%- assign pc_nome = pc.nome -%}{%- if pc_en and pc.tr.en.nome -%}{%- assign pc_nome = pc.tr.en.nome -%}{%- endif -%}
+{%- assign pc_desc = pc.descrizione -%}{%- if pc_en and pc.tr.en.descrizione -%}{%- assign pc_desc = pc.tr.en.descrizione -%}{%- endif -%}
+{%- assign pc_eur = pc.prezzo_centesimi | divided_by: 100 -%}{%- assign pc_cent = pc.prezzo_centesimi | modulo: 100 -%}
+{%- if pc_cent < 10 -%}{%- assign pc_cent = pc_cent | prepend: "0" -%}{%- endif -%}
+{%- if pc_en -%}{%- assign pc_url = "/en/shop/" | append: pc.id | append: "/" -%}{%- else -%}{%- assign pc_url = "/negozio/" | append: pc.id | append: "/" -%}{%- endif -%}
+<aside class="post-prodotto" style="display:flex;gap:1.2em;align-items:center;flex-wrap:wrap;margin:2.2em 0;padding:1.2em;border:1px solid rgba(128,128,128,.35);border-radius:10px">
+  <a href="{{ pc_url | relative_url }}" style="flex:0 0 140px;max-width:140px"><img src="{{ pc.immagine | relative_url }}" alt="{{ pc_nome | escape }}" loading="lazy" style="width:100%;height:auto;border-radius:8px"></a>
+  <div style="flex:1 1 220px">
+    <p style="margin:0 0 .2em;font-size:.85em;opacity:.75">{% if pc_en %}Ready in a minute, without the work{% else %}Pronto in un minuto, senza fatica{% endif %}</p>
+    <h3 style="margin:0 0 .3em"><a href="{{ pc_url | relative_url }}">{{ pc_nome | escape }}</a></h3>
+    <p style="margin:0 0 .6em">{{ pc_desc | strip_html }}</p>
+    <p style="margin:0"><strong>{% if pc_en %}€ {{ pc_eur }}.{{ pc_cent }}{% else %}€ {{ pc_eur }},{{ pc_cent }}{% endif %}</strong> &nbsp; <a href="{{ pc_url | relative_url }}" class="btn btn--primary">{% if pc_en %}Buy now{% else %}Acquista ora{% endif %}</a></p>
+  </div>
+</aside>
+{%- endif -%}
