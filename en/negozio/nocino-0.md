@@ -3,9 +3,9 @@ layout: negozio-prodotto
 title: "Nocino 0%"
 pid: nocino-0
 permalink: /en/shop/nocino-0/
-description: "Nocino 0%: Green walnut husk and spices: dark and deep, with notes of cinnamon and cloves."
+description: "Non-alcoholic nocino 0%: green walnut husk, cinnamon and cloves. Alcohol-free after-dinner liqueur, neat, over ice cream or in desserts. Order online."
 seo_title: "Non-Alcoholic Nocino 0% - Alcohol-Free Liqueur"
-seo_description: "Nocino 0%: Green walnut husk and spices: dark and deep, with notes of cinnamon and cloves."
+seo_description: "Non-alcoholic nocino 0%: green walnut husk, cinnamon and cloves. Alcohol-free after-dinner liqueur, neat, over ice cream or in desserts. Order online."
 seo_image: /assets/images/prodotti/nocino-0.webp
 lang: en
 locale: en

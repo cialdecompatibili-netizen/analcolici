@@ -1132,15 +1132,15 @@
       "nome": "Nocino 0%",
       "categoria": "liquori-0",
       "prezzo_centesimi": 1290,
-      "descrizione": "Mallo di noci verdi e spezie: scuro, profondo, con note di cannella e chiodi di garofano.",
-      "descrizione_completa": "Mallo di noci verdi e spezie: scuro, profondo, con note di cannella e chiodi di garofano.",
+      "descrizione": "Nocino analcolico 0%: mallo di noci verdi, cannella e chiodi di garofano. Scuro, profondo e speziato, il liquore da fine pasto senza alcol.",
+      "descrizione_completa": "Il nocino 0% è la versione analcolica del classico liquore di noci verdi: stessa anima scura e profonda, ma senza alcol. Al naso e in bocca ritrovi il mallo di noci verdi, il tono amarognolo e la spezia calda di cannella e chiodi di garofano.\nCome servirlo: liscio e freddo a fine pasto, come digestivo analcolico; sul gelato alla crema o alla vaniglia; nel caffè; nei dolci, dal tiramisù alle torte al cioccolato; oppure come base per cocktail analcolici autunnali, con ghiaccio e una scorza d'arancia.\nPerfetto per chi ama il gusto del nocino ma non beve alcol, per chi guida e per chi vuole un fine pasto senza alcol da offrire a tutti gli ospiti.",
       "immagine": "assets/images/prodotti/nocino-0.webp",
       "icona": "🍷",
       "visibile": true,
       "tr": {
         "en": {
-          "descrizione": "Green walnut husk and spices: dark and deep, with notes of cinnamon and cloves.",
-          "descrizione_completa": "Green walnut husk and spices: dark and deep, with notes of cinnamon and cloves."
+          "descrizione": "Non-alcoholic nocino 0%: green walnut husk, cinnamon and cloves. Dark, deep and spiced, the alcohol-free after-dinner liqueur.",
+          "descrizione_completa": "Nocino 0% is the alcohol-free take on the classic green walnut liqueur: the same dark, deep character, without the alcohol. You get green walnut husk, a pleasantly bitter edge and the warm spice of cinnamon and cloves.\nHow to enjoy it: neat and chilled after dinner as an alcohol-free digestif; over vanilla or cream ice cream; in desserts, from tiramisu to chocolate cakes; or as the base of autumn-style alcohol-free cocktails, over ice with an orange peel.\nIdeal for anyone who loves the taste of nocino but doesn't drink alcohol, for drivers, and for hosts who want an after-dinner liqueur everyone can enjoy."
         }
       }
     },
