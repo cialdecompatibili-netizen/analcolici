@@ -4,8 +4,8 @@ title: "Zebra striping: cos'e' il trend che sta cambiando il modo di bere degli 
 date: 2026-07-12
 permalink: /blog/trend-cultura/zebra-striping-nuovo-modo-di-bere/
 excerpt: "Cos'e' lo zebra striping e perche' sempre piu' persone alternano drink alcolici e analcolici nella stessa serata."
-seo_title: "Zebra Striping: il Trend Alcolico/Analcolico del 2026"
-seo_description: "Cos'e' lo zebra striping e perche' sempre piu' persone alternano drink alcolici e analcolici nella stessa serata."
+seo_title: "Zebra striping: alternare alcolici e analcolici"
+seo_description: "Zebra striping significa alternare drink alcolici e analcolici. Cos'è, perché è di tendenza e come farlo con cocktail 0% senza rinunciare al gusto."
 categories:
   - "Trend & Cultura"
 ref: zebra-striping-nuovo-modo-di-bere

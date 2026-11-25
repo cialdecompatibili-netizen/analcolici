@@ -4,8 +4,8 @@ title: "Recipe: Non-alcoholic Citrus Spritz step by step"
 date: 2026-07-12
 permalink: /en/blog/mocktail-recipes/ricetta-spritz-agrumato-analcolico/
 excerpt: "The complete recipe for preparing a non-alcoholic citrus spritz at home: doses, procedure and garnish."
-seo_title: "Non-Alcoholic Citrus Spritz Recipe"
-seo_description: "The complete recipe for preparing a non-alcoholic citrus spritz at home: doses, procedure and garnish."
+seo_title: "Non-Alcoholic Spritz: Citrus 3-2-1 Recipe"
+seo_description: "Citrusy non-alcoholic spritz with 0% sparkling wine, bitter and soda. 3-2-1 recipe and tips for a fresh, bright alcohol-free spritz."
 categories:
   - "Mocktail Recipes"
 tr: tradotto

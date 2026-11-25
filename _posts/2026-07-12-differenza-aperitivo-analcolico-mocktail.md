@@ -4,8 +4,8 @@ title: "Aperitivo analcolico o mocktail? Le differenze che non tutti conoscono"
 date: 2026-07-12
 permalink: /blog/guide-all-aperitivo/differenza-aperitivo-analcolico-mocktail/
 excerpt: "Non sono la stessa cosa: scopri le differenze tra aperitivo analcolico pronto e mocktail preparato al momento."
-seo_title: "Aperitivo Analcolico vs Mocktail: Differenze"
-seo_description: "Non sono la stessa cosa: scopri le differenze tra aperitivo analcolico pronto e mocktail preparato al momento."
+seo_title: "Aperitivo analcolico o mocktail: che differenza c'è?"
+seo_description: "Aperitivo analcolico e mocktail: che differenza c'è? Ingredienti, gusto e quando sceglierli. Guida chiara con esempi di cocktail analcolici."
 categories:
   - "Guide all'Aperitivo"
 ref: differenza-aperitivo-analcolico-mocktail

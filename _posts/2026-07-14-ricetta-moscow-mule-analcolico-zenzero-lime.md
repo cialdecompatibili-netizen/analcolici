@@ -4,8 +4,8 @@ title: "Ricetta: Moscow Mule Analcolico con zenzero fresco e lime"
 date: 2026-07-14
 permalink: /blog/ricette-mocktail/ricetta-moscow-mule-analcolico-zenzero-lime/
 excerpt: "Come preparare un Moscow Mule analcolico piccante e frizzante: sciroppo di zenzero fatto in casa, lime fresco e ginger beer, servito nella classica mug di rame."
-seo_title: "Moscow Mule Analcolico Ricetta"
-seo_description: "Come preparare un Moscow Mule analcolico piccante e frizzante: sciroppo di zenzero fatto in casa, lime fresco e ginger beer, servito nella classica mug di rame."
+seo_title: "Moscow Mule analcolico: ricetta con ginger beer"
+seo_description: "Moscow Mule analcolico: ginger beer, lime e menta nella tazza di rame. Ricetta, dosi e consigli per un moscow mule mocktail piccante e fresco."
 categories:
   - "Ricette Mocktail"
 ref: ricetta-moscow-mule-analcolico-zenzero-lime

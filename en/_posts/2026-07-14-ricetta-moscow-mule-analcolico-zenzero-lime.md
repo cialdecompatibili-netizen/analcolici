@@ -4,8 +4,8 @@ title: "Recipe: Non-alcoholic Moscow Mule with fresh ginger and lime"
 date: 2026-07-14
 permalink: /en/blog/mocktail-recipes/ricetta-moscow-mule-analcolico-zenzero-lime/
 excerpt: "How to prepare a spicy and fizzy non-alcoholic Moscow Mule: homemade ginger syrup, fresh lime and ginger beer, served in the classic copper mug."
-seo_title: "Non-Alcoholic Moscow Mule Recipe"
-seo_description: "How to prepare a spicy and fizzy non-alcoholic Moscow Mule: homemade ginger syrup, fresh lime and ginger beer, served in the classic copper mug."
+seo_title: "Non-Alcoholic Moscow Mule: Ginger Beer Recipe"
+seo_description: "Alcohol-free Moscow Mule with ginger beer, lime and mint. Recipe, ratios and tips for a spicy, fresh Moscow Mule mocktail in a copper mug."
 categories:
   - "Mocktail Recipes"
 tr: tradotto

@@ -4,8 +4,8 @@ title: "Recipe: Non-alcoholic Mojito with mint and fresh lime"
 date: 2026-07-12
 permalink: /en/blog/mocktail-recipes/ricetta-mojito-analcolico-menta-lime/
 excerpt: "How to prepare a fresh and thirst-quenching non-alcoholic mojito: precise doses, mint crushing technique and garnish."
-seo_title: "Non-Alcoholic Mojito Recipe"
-seo_description: "How to prepare a fresh and thirst-quenching non-alcoholic mojito: precise doses, mint crushing technique and garnish."
+seo_title: "Non-Alcoholic Mojito: Mint and Lime Recipe"
+seo_description: "Alcohol-free Mojito with fresh mint, lime and soda. Recipe, ratios and tips for a thirst-quenching mojito mocktail in 5 minutes."
 categories:
   - "Mocktail Recipes"
 tr: tradotto

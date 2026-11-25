@@ -4,8 +4,8 @@ title: "Recipe: Non-alcoholic Negroni, the bitter-citrus aperitif without alcoho
 date: 2026-07-14
 permalink: /en/blog/mocktail-recipes/ricetta-negroni-analcolico-amaro-agrumato/
 excerpt: "How to recreate the non-alcoholic Negroni while maintaining its bitter structure: non-alcoholic bitters, non-alcoholic vermouth and the stirred, not shaken, technique."
-seo_title: "Non-alcoholic Negroni Recipe"
-seo_description: "How to recreate the non-alcoholic Negroni while maintaining its bitter structure: non-alcoholic bitters, non-alcoholic vermouth and the stirred, not shaken, technique."
+seo_title: "Non-Alcoholic Negroni: Bitter Citrus Recipe"
+seo_description: "Non-alcoholic Negroni with bitter, 0% vermouth and orange. Recipe, ratios and tips for an alcohol-free Negroni with all the character of the classic."
 categories:
   - "Mocktail Recipes"
 tr: tradotto

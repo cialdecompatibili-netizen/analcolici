@@ -4,8 +4,8 @@ title: "Ricetta: Spritz Agrumato Analcolico passo passo"
 date: 2026-07-12
 permalink: /blog/ricette-mocktail/ricetta-spritz-agrumato-analcolico/
 excerpt: "La ricetta completa per preparare a casa uno spritz analcolico agrumato: dosi, procedimento e guarnizione."
-seo_title: "Ricetta Spritz Agrumato Analcolico"
-seo_description: "La ricetta completa per preparare a casa uno spritz analcolico agrumato: dosi, procedimento e guarnizione."
+seo_title: "Spritz analcolico agrumato: ricetta 3-2-1"
+seo_description: "Spritz analcolico agrumato: spumante 0%, bitter e soda. Ricetta con dosi 3-2-1 e trucchi per uno spritz senza alcol fresco e brillante."
 categories:
   - "Ricette Mocktail"
 ref: ricetta-spritz-agrumato-analcolico

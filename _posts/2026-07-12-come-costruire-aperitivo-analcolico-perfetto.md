@@ -4,8 +4,8 @@ title: "Come costruire l'aperitivo analcolico perfetto: la guida completa"
 date: 2026-07-12
 permalink: /blog/guide-all-aperitivo/come-costruire-aperitivo-analcolico-perfetto/
 excerpt: "Bicchiere, ghiaccio, guarnizione e abbinamenti: tutto quello che serve per un aperitivo analcolico all'altezza di quello tradizionale."
-seo_title: "Guida all'Aperitivo Analcolico Perfetto"
-seo_description: "Bicchiere, ghiaccio, guarnizione e abbinamenti: tutto quello che serve per un aperitivo analcolico all'altezza di quello tradizionale."
+seo_title: "Aperitivo analcolico perfetto: guida e idee"
+seo_description: "Come costruire un aperitivo analcolico perfetto: drink, stuzzichini e abbinamenti. Guida con idee e ricette senza alcol per ogni occasione."
 categories:
   - "Guide all'Aperitivo"
 ref: come-costruire-aperitivo-analcolico-perfetto

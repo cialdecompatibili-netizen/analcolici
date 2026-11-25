@@ -4,8 +4,8 @@ title: "Ricetta: Mojito Analcolico con menta e lime fresco"
 date: 2026-07-12
 permalink: /blog/ricette-mocktail/ricetta-mojito-analcolico-menta-lime/
 excerpt: "Come preparare un mojito analcolico fresco e dissetante: dosi precise, tecnica di pestatura della menta e guarnizione."
-seo_title: "Ricetta Mojito Analcolico"
-seo_description: "Come preparare un mojito analcolico fresco e dissetante: dosi precise, tecnica di pestatura della menta e guarnizione."
+seo_title: "Mojito analcolico: ricetta con menta e lime"
+seo_description: "Mojito analcolico con menta fresca, lime e soda. Ricetta, dosi e trucchi per un mojito mocktail dissetante, pronto in 5 minuti."
 categories:
   - "Ricette Mocktail"
 ref: ricetta-mojito-analcolico-menta-lime

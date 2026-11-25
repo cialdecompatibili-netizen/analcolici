@@ -4,8 +4,8 @@ title: "Zebra striping: what is the trend that is changing the way Italians drin
 date: 2026-07-12
 permalink: /en/blog/trends-culture/zebra-striping-nuovo-modo-di-bere/
 excerpt: "What is zebra striping and why more and more people alternate alcoholic and non-alcoholic drinks on the same evening."
-seo_title: "Zebra Striping: the Alcoholic/Non-Alcoholic Trend of 2026"
-seo_description: "What is zebra striping and why more and more people alternate alcoholic and non-alcoholic drinks on the same evening."
+seo_title: "Zebra Striping: Alternating Alcohol and 0% Drinks"
+seo_description: "Zebra striping means alternating alcoholic and non-alcoholic drinks. What it is, why it's trending and how to do it with 0% cocktails."
 categories:
   - "Trends & Culture"
 tr: tradotto
